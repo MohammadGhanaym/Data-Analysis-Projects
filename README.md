@@ -11,7 +11,7 @@ Exploring data related to bike share systems for three major cities in the Unite
 
 ### Investigate Movies Dataset
 <a id='Investigate Movies Dataset'></a>
-Investigating the movies dataset. Creating a file to share that documents my findings. Taking a look at the dataset and brainstorming what questions I could answer using it. Then I used pandas and NumPy to answer the questions I'm most interested in and create a report sharing the answers. 
+Investigating the movies dataset. Creating a file to share that documents my findings. Taking a look at the dataset and brainstorming what questions I could answer using it. Then I used pandas and NumPy to answer the questions I'm most interested in and created a report sharing the answers. 
 
 ### Analyze A/B Test Results
 
