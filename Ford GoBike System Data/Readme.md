@@ -1,4 +1,3 @@
-### Which dataset you chose?
 
 **Ford GoBike System Data**
 \
