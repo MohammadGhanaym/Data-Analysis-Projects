@@ -3,7 +3,7 @@
 <li><a href="#Investigate Movies Dataset">Investigate Movies Dataset</a></li>
 <li><a href="#Analyze A/B Test Results">Analyze A/B Test Results</a></li>
 <li><a href="#Communicate Data Findings (Ford Gobike Data System)">Communicate Data Findings (Ford Gobike Data System)</a></li>
-
+<li><a href="#Investigate Medical Appointment No Shows 2016">Investigate Medical Appointment No Shows 2016</a></li>
 
 ### Exploring US Bikeshare Data
 <a id='Exploring US Bikeshare Data'></a>
@@ -11,7 +11,7 @@ Exploring data related to bike share systems for three major cities in the Unite
 
 ### Investigate Movies Dataset
 <a id='Investigate Movies Dataset'></a>
-Investigating the movies dataset. Creating a file to share that documents my findings. Taking a look at the dataset and brainstorming what questions I could answer using it. Then I used pandas and NumPy to answer the questions I'm most interested in and created a report sharing the answers. 
+Investigating the movies dataset. Creating a file to share that documents my findings. Taking a look at the dataset and brainstorming what questions I could answer using it. Then I used pandas and NumPy to answer the questions I'm most interested in and create a report sharing the answers. 
 
 ### Analyze A/B Test Results
 
@@ -22,3 +22,7 @@ Working to understand the results of an A/B test run by an e-commerce website. T
 <a id='Communicate Data Findings (Ford Gobike Data System)'></a>
 
 This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process. In the first part, Using Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. In the second part, I produced a short presentation that illustrates interesting properties, trends, and relationships that I discovered in my selected dataset. 
+
+### Investigate Medical Appointment No Shows 2016
+<a id='Investigate Medical Appointment No Shows 2016'></a>
+Investigating the no-show appointments dataset. Creating a file to share that documents my findings. Taking a look at the dataset and brainstorming what questions I could answer using it. Then I used pandas and NumPy to answer the questions I'm most interested in and create a report sharing the answers.
