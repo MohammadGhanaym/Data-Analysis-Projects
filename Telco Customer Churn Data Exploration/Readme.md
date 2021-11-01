@@ -1,4 +1,4 @@
-## Which dataset you chose?
+## Which dataset I chose?
 
  [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn) from Kaggle
 
