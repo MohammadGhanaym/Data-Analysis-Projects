@@ -1,6 +1,6 @@
 # Top Countries for Business Expansion
 ## Overview
-Gapminder has collected a lot of information about how people live their lives in different countries, tracked across the years, and on a number of different indicators.
+[Gapminder](https://www.gapminder.org/data/) has collected a lot of information about how people live their lives in different countries, tracked across the years, and on a number of different indicators.
 
 ### Business Goal
 We will assist stakeholders in identifying the best countries for opening a new business by analyzing the following key metrics:
