@@ -3,9 +3,8 @@
 Gapminder has collected a lot of information about how people live their lives in different countries, tracked across the years, and on a number of different indicators.
 
 ### Business Goal
-We will use metrics from this data to help stakeholders identify the best countries to open businesses targeting middle-class consumers.
+We will assist stakeholders in identifying the best countries for opening a new business by analyzing the following key metrics:
 
-### Metrics to investigate:
 1. **GDP per capita (Price and inflation-adjusted, in PPP$2021):** Gross domestic product per person adjusted for differences in purchasing power (in international dollars, fixed 2021 prices, PPP based on 2021 ICP). We will use this to determine which countries have high purchasing power and market potential.
     - File: `gdp_pcap_21.csv`
 2. **Population Size:** Total population counts the number of inhabitants in the territory. We will use this to identify which countries have a big customer base.
