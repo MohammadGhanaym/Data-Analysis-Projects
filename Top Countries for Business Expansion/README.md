@@ -20,7 +20,7 @@ We will assist stakeholders in identifying the best countries for opening a new 
 8. **Cost of Business Start-Up Procedures:** Cost to register a business is normalized by presenting it as a percentage of gross national income (GNI) per capita. It will help identify the countries with low-start costs.
     - File: `ic_reg_cost_pc_zs`
 
-We are going to use the `ddf--entities--geo--country.csv` file, as it contains information about each country, such as the continent they belong to.
+
 ### Questions to Answer:
 
 1. Which countries had the highest GDP per capita in 2019? List the top 10.  
@@ -39,35 +39,36 @@ We are going to use the `ddf--entities--geo--country.csv` file, as it contains i
 
 ### Communicating Results
 
-![download.png](fdc5b9f1-7d05-4013-8abd-6c51e344e283.png)
+![download.png](Visualizations/fdc5b9f1-7d05-4013-8abd-6c51e344e283.png)
+
 
 - In 2019, Luxembourge has the highest domestic gross product per captia which imply that its citizens may have high purchasing power and market potential.
 
-![download.png](a2e5a3a9-2abd-4f83-8c43-b335addc5ad5.png)
+![download.png](Visualizations/a2e5a3a9-2abd-4f83-8c43-b335addc5ad5.png)
 - China and India have significantly larger populations compared to other countries, which indicates a substantial potential customer base for businesses.
 - The USA is one of the top 10 countries with both a high GDP per capita and a large population size, making it a potentially lucrative market with strong purchasing power and a substantial customer base.
 
-![download.png](6ea13d55-959f-4a37-a7e3-c7579b72903b.png)
+![download.png](Visualizations/6ea13d55-959f-4a37-a7e3-c7579b72903b.png)
 
 - Malta, Syria, and Niger have the highest population growth percentages, making them strong candidates for businesses that target products for children. These countries are expected to have growing markets due to their increasing population size. Since Syria do not have political or economic stability, I don't think it will be a good canditate to invest in.
 
-![download.png](6cf36ce8-962a-49fb-a879-389ffd208bfb.png)
+![download.png](Visualizations/6cf36ce8-962a-49fb-a879-389ffd208bfb.png)
 
 - Switzerland, Norway, and Iceland have the highest Human Development Index (HDI), suggesting a higher likelihood of a skilled and educated workforce. This is crucial for businesses that require specialized skills to thrive.
 
-![download.png](977ff149-0ab6-4ee8-974a-3c567e78ee81.png)
+![download.png](Visualizations/977ff149-0ab6-4ee8-974a-3c567e78ee81.png)
 
 - New Zealand, Singapore, and Hong Kong, China have the highest Ease of Doing Business scores, reflecting favorable regulatory environments and the ease of starting and operating a business. Additionally, some countries excel in both Ease of Doing Business and Human Development Index (HDI), indicating the presence of skilled labor and a business-friendly environment, such as Singapore and Hong Kong, China
 
-![download.png](de295980-0883-489a-ad9d-11ce891d9ae5.png)
+![download.png](Visualizations/de295980-0883-489a-ad9d-11ce891d9ae5.png)
 
 - United Kingdom, Slovenia, and Rwanda have no costs associated with business start-up procedures, making them attractive for new businesses. Additionally, countries with high ease of doing business scores generally tend to have lower costs for business start-up procedures, creating a favorable environment for entrepreneurs.
 
-![download.png](7ea38127-f4cd-4411-9815-206e74846d0f.png)
+![download.png](Visualizations/7ea38127-f4cd-4411-9815-206e74846d0f.png)
 
 - Hong Kong, China, Singapore, and Kuwait have 100% urban populations, which suggests they are likely to have better infrastructure. Urban areas also offer advantages for businesses due to easier targeting of marketing and distribution efforts, making these countries attractive for investment.
 
-![download.png](913b7f0d-b38b-4163-9a27-8513f5feaf4d.png)
+![download.png](Visualizations/913b7f0d-b38b-4163-9a27-8513f5feaf4d.png)
 
 New Zealand, Singapore, the USA, Hong Kong, China, Denmark, and the United Kingdom have high Ease of Doing Business scores and Human Development Index (HDI) values and low costs for business start-up procedures. 
 - These countries have streamlined regulatory environments, making starting and operating businesses easier.
@@ -82,7 +83,7 @@ To narrow down the scope of target countries for potential investment, we will f
 
 This approach will help identify countries with favorable business environments, skilled workforces, and minimal financial barriers to entry. Let's analyze the data and keep track of these countries.
 
-![download.png](96d42f0a-83bf-47ee-8164-61159035f631.png)
+![download.png](Visualizations/96d42f0a-83bf-47ee-8164-61159035f631.png)
 
 - China has a very high population size but a relatively low Human Development Index (HDI) and GDP per capita compared to other countries. In contrast, Hong Kong, China, has a higher GDP per capita and HDI, indicating better economic and developmental conditions.  
 - I will exclude China from my top countries list to focus on the population sizes of other countries in the chart above.
@@ -92,18 +93,18 @@ This approach will help identify countries with favorable business environments,
 
 - Luxembourg, Singapore, and Qatar, despite their small population sizes, boast high GDP per capita and HDI, making them great candidates for businesses targeting high purchasing power and skilled labor.
 
-![download.png](581a547b-8b1b-4887-8a2c-4f056ee032c3.png)
+![download.png](Visualizations/581a547b-8b1b-4887-8a2c-4f056ee032c3.png)
 
 - In general, the Human Development Index (HDI) has been increasing over time for the top 10 countries, indicating overall improvements in education, healthcare, and income levels.
 - For the United Kingdom, the HDI slightly decreased in 2018 before increasing again in 2019, showing some fluctuations in its human development indicators.
 - All these countries are excellent candidates for businesses that require skilled labor, as they have well-educated and healthy workforces, making them ideal markets for industries that depend on specialized talent.
 
-![download.png](e2e541ee-51cf-4372-8ee6-310c18721786.png)
+![download.png](Visualizations/e2e541ee-51cf-4372-8ee6-310c18721786.png)
 
 - Ease of Doing Business scores have remained stable over time for countries such as the USA, the United Kingdom, Sweden, Canada, and Germany, indicating consistent regulatory environments that support business operations.
 - On the other hand, Ease of Doing Business scores have been increasing over time for countries such as Kazakhstan, Russia, and Belgium, suggesting improvements in their regulatory frameworks and business environments.
 
-![download.png](7fff2bdc-a82c-44b7-82e2-d59d2c3eeb22.png)
+![download.png](Visualizations/7fff2bdc-a82c-44b7-82e2-d59d2c3eeb22.png)
 
 - The costs of start-up procedures are very low for countries such as the United Kingdom, Kazakhstan, Canada, and Sweden, making these countries favorable for new business ventures.
 - In Romania, the costs of start-up procedures decreased in 2017 and then stabilized, indicating a positive shift in the business environment during that period.
