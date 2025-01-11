@@ -5,6 +5,7 @@
 <li><a href="#Communicate Data Findings (Ford Gobike System Data)">Communicate Data Findings (Ford Gobike System Data)</a></li>
 <li><a href="#Investigate Medical Appointment No Shows 2016">Investigate Medical Appointment No Shows 2016</a></li>
 <li><a href="#Communicate Data Findings (Telco Customer Churn Data)">Communicate Data Findings (Telco Customer Churn Data)</a></li>
+<li><a href="#Top Countries for Business Expansion">Top Countries for Business Expansion</a></li>
 
 ### Exploring US Bikeshare Data
 <a id='Exploring US Bikeshare Data'></a>
@@ -32,3 +33,15 @@ We started with assessing the data visually and programmatically. Then, we clean
 <a id='Communicate Data Findings (Telco Customer Churn Data)'></a>
 
 This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process. In the first part, Using Python visualization libraries to systematically explore Telco Customer Churn Data, starting from plots of single variables and building up to plots of multiple variables. In the second part, I produced a short presentation that illustrates interesting properties, trends, and relationships that I discovered in my selected dataset. 
+
+
+### Top Countries for Business Expansion
+In this project, I analyzed key indicators from the [Gapminder](https://www.gapminder.org/data/) website to assist stakeholders in identifying the best countries for opening a new business. I used metrics such as:  
+
+- GDP per capita (price and inflation-adjusted, in PPP$2021)  
+- Population size  
+- Population growth (annual %)  
+- Urban population (% of total)  
+- Human Development Index (HDI)  
+- Ease of Doing Business score  
+- Cost of business start-up procedures  
