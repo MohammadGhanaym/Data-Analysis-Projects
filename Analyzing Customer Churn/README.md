@@ -24,3 +24,10 @@ There are two sheets:
         - Competitor had better devices
         - Attitude of support person
 
+- We will now analyze which churn category contributes the most to overall churn.
+    - We can see that category driving the highest % of churn is Competitor.
+        - We found that 37.64% of customers who churned due to competitor reasons did so because the competitor made a better offer.
+- Let's start analyzing demographics fields to extract more insights to help us identify why customers churn.
+- We created a new column called `Demographics` that categorizes customers into the following categories: `Under 30`, `Senior` and `Other`
+- We created a calculated field `Churn Rate %` that divides churned customers by total customers
+- When we analyzed churn by `Demographics`, we found that nearly 40% of the customers categorized as Seniors churned from the company.
