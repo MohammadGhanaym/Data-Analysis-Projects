@@ -36,6 +36,8 @@ This project has two parts that demonstrate the importance and value of data vis
 
 
 ### Top Countries for Business Expansion
+<a id='Top Countries for Business Expansion'></a>
+
 In this project, I analyzed key indicators from the [Gapminder](https://www.gapminder.org/data/) website to assist stakeholders in identifying the best countries for opening a new business. I used metrics such as:  
 
 - GDP per capita (price and inflation-adjusted, in PPP$2021)  
