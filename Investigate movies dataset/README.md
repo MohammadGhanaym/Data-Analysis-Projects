@@ -739,7 +739,7 @@ pie_plot(genres_count, labels=labels, autopct='%.2f', title='Proportions of Movi
 
 
     
-![png](Visualizations/Visualizations/Visualizations/output_36_0.png)
+![png](Visualizations/output_36_0.png)
     
 
 
@@ -779,7 +779,7 @@ pie_plot(years_count, labels=labels, autopct='%.2f', title='Proportions of Years
 
 
     
-![png](Visualizations/Visualizations/Visualizations/output_40_0.png)
+![png](Visualizations/output_40_0.png)
     
 
 
@@ -803,7 +803,7 @@ plt.show()
 
 
     
-![png](Visualizations/Visualizations/Visualizations/output_43_0.png)
+![png](Visualizations/output_43_0.png)
     
 
 
@@ -849,7 +849,7 @@ pie_plot(years_count, labels=labels, autopct= '%.2f', title= 'Proportions of Com
 
 
     
-![png](Visualizations/Visualizations/Visualizations/output_49_0.png)
+![png](Visualizations/output_49_0.png)
     
 
 
@@ -909,7 +909,7 @@ plt.show()
 
 
     
-![png](Visualizations/Visualizations/Visualizations/output_53_0.png)
+![png](Visualizations/output_53_0.png)
     
 
 
@@ -946,7 +946,7 @@ scatter_plot(df.popularity, df.vote_count, title= 'The Relationship Between Movi
 
 
     
-![png](Visualizations/Visualizations/Visualizations/output_57_0.png)
+![png](Visualizations/output_57_0.png)
     
 
 
@@ -962,7 +962,7 @@ scatter_plot(df.budget, df.revenue, color= 'r', title= 'Revenue VS Budget', xlab
 
 
     
-![png](Visualizations/Visualizations/Visualizations/output_60_0.png)
+![png](Visualizations/output_60_0.png)
     
 
 
@@ -974,7 +974,7 @@ scatter_plot(df.budget, df.popularity, color='y', title='Popularity VS Budget', 
 
 
     
-![png](Visualizations/Visualizations/Visualizations/output_61_0.png)
+![png](Visualizations/output_61_0.png)
     
 
 
@@ -1003,7 +1003,7 @@ plt.show()
 
 
     
-![png](Visualizations/Visualizations/Visualizations/output_66_0.png)
+![png](Visualizations/output_66_0.png)
     
 
 
@@ -1195,7 +1195,7 @@ plt.show()
 
 
     
-![png](Visualizations/Visualizations/Visualizations/output_83_0.png)
+![png](Visualizations/output_83_0.png)
     
 
 
@@ -1731,15 +1731,15 @@ After digging deep into these data, do some statistical analysis, and answer som
 #### Some Important Graphs
 
 - **Most of the movies in this dataset are comedy and drama movies.**
-![number_movies.png](Visualizations/Visualizations/number_movies.png)
+![number_movies.png](Visualizations/number_movies.png)
 
 - **These movies take 109.35 minute on average.**
-![runtime.png](Visualizations/Visualizations/runtime.png)
+![runtime.png](Visualizations/runtime.png)
 
 - **The popularity and revenue are increases with the budget of the movie. The more budget is, the more popularity and revenue are**
-![popularity_budget.png](Visualizations/Visualizations/popularity_budget.png)
+![popularity_budget.png](Visualizations/popularity_budget.png)
 
-![revenue_budget.png](Visualizations/Visualizations/revenue_budget.png)
+![revenue_budget.png](Visualizations/revenue_budget.png)
 
 - **The average rating of movies is getting worse over the years, which means the old movies get high ratings than the new ones.**
-![AverageRating_Years.png](Visualizations/Visualizations/AverageRating_Years.png)
+![AverageRating_Years.png](Visualizations/AverageRating_Years.png)
