@@ -22,7 +22,7 @@ We started with assessing the data visually and programmatically. Then, we clean
 Working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. My goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ### Communicate Data Findings (Ford Gobike Data System)
-<a id='Communicate Data Findings (Ford Gobike Data System)'></a>
+<a id='Communicate Data Findings (Ford Gobike System Data)'></a>
 
 This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process. In the first part, Using Python visualization libraries to systematically explore Ford Gobike System Data, starting from plots of single variables and building up to plots of multiple variables. In the second part, I produced a short presentation that illustrates interesting properties, trends, and relationships that I discovered in my selected dataset. 
 
