@@ -5,7 +5,7 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 ---
 
 ## Projects
-
+1. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
 1. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
 2. **[Investigate Movies Dataset](#investigate-movies-dataset)**  
 3. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
@@ -14,6 +14,11 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 6. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**  
 7. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
 8. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**  
+
+---
+### Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities
+<a id='CRM-Sales-Opportunities-Analysis'></a>  
+In this analysis, I will help a computer hardware company evaluate the performance of its sales teams and agents and identify which products have the highest win rates. By analyzing key metrics such as total bookings, average deal size, win rate, and time to close, we will uncover actionable insights to improve sales performance, reduce lost opportunities, and drive profitability.
 
 ---
 
