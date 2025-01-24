@@ -6,6 +6,7 @@
 <li><a href="#Investigate Medical Appointment No Shows 2016">Investigate Medical Appointment No Shows 2016</a></li>
 <li><a href="#Communicate Data Findings (Telco Customer Churn Data)">Communicate Data Findings (Telco Customer Churn Data)</a></li>
 <li><a href="#Top Countries for Business Expansion">Top Countries for Business Expansion</a></li>
+<li><a href="#Analyzing Databel Customer Churn">Analyzing Databel Customer Churn</a></li>
 
 ### Exploring US Bikeshare Data
 <a id='Exploring US Bikeshare Data'></a>
@@ -47,3 +48,15 @@ In this project, I analyzed key indicators from the [Gapminder](https://www.gapm
 - Human Development Index (HDI)  
 - Ease of Doing Business score  
 - Cost of business start-up procedures  
+---
+### Analyzing Databel Customer Churn
+<a id='Analyzing Databel Customer Churn'></a>
+We will be analyzing a fictitious churn dataset from a Telecom provider called Databel to know why customers are churning. The Databel dataset consists of 29 columns with one row per customer. We'll be analyzing a snapshot of the database at a specific time, meaning there is no time dimension. If you want to know more about the data check out the Metadata Sheet - Customer Churn file. There are two sheets:
+
+- Databel - Customer
+- Databel - Aggreate: The aggregate views are based on data in Databel - Customer.
+#### **Skills Used**
+- Creating calculated columns.
+- Transforming and cleaning data.
+- Performing exploratory data analysis (EDA).
+- Building pivot tables and creating data visualizations.
