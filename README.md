@@ -6,15 +6,14 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 
 ## Projects
 1. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
-1. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
-2. **[Investigate Movies Dataset](#investigate-movies-dataset)**  
-3. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
-4. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
-5. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
-6. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**  
-7. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
-8. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**  
-
+2. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
+3. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
+4. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
+5. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**  
+6. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
+7. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
+8. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
+9. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
 ---
 
 ### Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities
@@ -26,27 +25,7 @@ In this analysis, I will help a computer hardware company evaluate the performan
 - Descriptive Statistics
 - Data Visualization
   
----
-
-### Exploring US Bikeshare Data  
-<a id='exploring-us-bikeshare-data'></a>  
-This project explores bike share system data for three major U.S. cities: Chicago, New York City, and Washington. Using Python, I computed descriptive statistics and created an interactive terminal experience to present insights about bike usage patterns, peak hours, and user demographics.  
-
-**Skills Used:**  
-- Python (Pandas, NumPy)  
-- Descriptive Statistics  
-- Interactive Scripting  
-
----
-
-### Investigate Movies Dataset  
-<a id='investigate-movies-dataset'></a>  
-In this project, I analyzed a dataset of movies to uncover trends and answer key questions about the film industry. After assessing and cleaning the data, I used Python to explore relationships between variables such as budget, revenue, and ratings.  
-
-**Skills Used:**  
-- Python (Pandas, NumPy, Matplotlib)  
-- Data Wrangling  
-- Data Visualization  
+[Check it out here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/CRM%20Sales%20Opportunities%20Analysis)
 
 ---
 
@@ -116,6 +95,28 @@ I analyzed a telecom customer churn dataset to uncover reasons behind customer a
 - Exploratory Data Analysis (EDA)  
 - Data Visualization  
 
+---
+
+### Investigate Movies Dataset  
+<a id='investigate-movies-dataset'></a>  
+In this project, I analyzed a dataset of movies to uncover trends and answer key questions about the film industry. After assessing and cleaning the data, I used Python to explore relationships between variables such as budget, revenue, and ratings.  
+
+**Skills Used:**  
+- Python (Pandas, NumPy, Matplotlib)  
+- Data Wrangling  
+- Data Visualization
+
+---
+
+### Exploring US Bikeshare Data  
+<a id='exploring-us-bikeshare-data'></a>  
+This project explores bike share system data for three major U.S. cities: Chicago, New York City, and Washington. Using Python, I computed descriptive statistics and created an interactive terminal experience to present insights about bike usage patterns, peak hours, and user demographics.  
+
+**Skills Used:**  
+- Python (Pandas, NumPy)  
+- Descriptive Statistics  
+- Interactive Scripting
+  
 ---
 
 ## How to Navigate This Repository  
