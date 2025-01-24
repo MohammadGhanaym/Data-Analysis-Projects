@@ -16,10 +16,16 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 8. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**  
 
 ---
+
 ### Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities
 <a id='CRM-Sales-Opportunities-Analysis'></a>  
 In this analysis, I will help a computer hardware company evaluate the performance of its sales teams and agents and identify which products have the highest win rates. By analyzing key metrics such as total bookings, average deal size, win rate, and time to close, we will uncover actionable insights to improve sales performance, reduce lost opportunities, and drive profitability.
 
+**Skills Used:**  
+- Excel (Pivot Tables, Power Pivot, Power Query)
+- Descriptive Statistics
+- Data Visualization
+  
 ---
 
 ### Exploring US Bikeshare Data  
