@@ -1,8 +1,8 @@
 # Overview
-In this analysis, I will help a company that sells computer hardware evaluate its sales team and sales agents' performance and also to know which products have better win rates.
+In this analysis, I will help a computer hardware company evaluate the performance of its sales teams and agents and identify which products have the highest win rates. By analyzing key metrics such as total bookings, average deal size, win rate, and time to close, we will uncover actionable insights to improve sales performance, reduce lost opportunities, and drive profitability.
 
 																																																		
-![image.png](Visualizations/78e89bb5-0caf-46b4-94ce-a14a7277afd3.png)
+![image.png](Visualizations/8c4e71f3-edb8-435f-9b02-26ead5406bd4.png)
 
 
 ## **Data Gathering**
@@ -68,9 +68,6 @@ I worked on identifying the relationships between the tables and came up with th
 #### 1. How is each sales team performing compared to the rest?  
 #### 2. Are any sales agents lagging behind?  
 #### 3. Can you identify any quarter-over-quarter trends?  
-#### 4. Do any products have better win rates?  
-
-
 
 ---
 
@@ -100,11 +97,9 @@ This analysis is performed for deals closed between **March 1, 2017**, and **Dec
 - What are the trends in win rate over time?
 - Which region has a high loss of deals?
 - What is the average time to close a deal per sales team?
-- 
 - What is the total bookings for each sales agent?  
-- What is the average time to close a deal per sales agent?    
-- Which products have a high win rate?  
-- What is the average deal size per product?  
+- What is the average time to close a deal per sales agent?
+- Which sales agent has the top performance?    
 
 ## **Data Assessing**  
 - For this step, we will use **Power Query**.  
@@ -212,3 +207,14 @@ Now, we will address the main questions.
 
 
 - Across regional offices, teams that take more time to close deals tend to have a higher win rate. This suggests that spending additional time on deals may lead to better outcomes, but the relationship varies by team and region.
+
+#### Which sales agent has the top performance?  
+
+
+![image.png](Visualizations/4acb4fe0-034e-4270-93ee-82fa89dcb9a9.png)
+
+Hayden Neloms is the sales agent with the highest win rate of 70.39%. He is managed by Celia Rouche in the West region.
+
+Darcel Schlecht is the sales agent with the highest total bookings, amounting to $1,153,214. He is managed by Melvin Marxen in the Central region. His total bookings are significantly higher compared to those of the other sales agents.
+
+Lajuana Vencill is the sales agent with the lowest win rate of 54.98%, which is significantly low. She is managed by Dustin Brinkmann in the Central region.
