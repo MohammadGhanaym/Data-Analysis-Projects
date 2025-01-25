@@ -5,37 +5,27 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 ---
 
 ## Projects
-
-1. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
-2. **[Investigate Movies Dataset](#investigate-movies-dataset)**  
-3. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
-4. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
-5. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
-6. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**  
-7. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
-8. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**  
-
+1. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
+2. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
+3. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
+4. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
+5. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**  
+6. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
+7. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
+8. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
+9. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
 ---
 
-### Exploring US Bikeshare Data  
-<a id='exploring-us-bikeshare-data'></a>  
-This project explores bike share system data for three major U.S. cities: Chicago, New York City, and Washington. Using Python, I computed descriptive statistics and created an interactive terminal experience to present insights about bike usage patterns, peak hours, and user demographics.  
+### Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities
+<a id='CRM-Sales-Opportunities-Analysis'></a>  
+In this analysis, I will help a computer hardware company evaluate the performance of its sales teams and agents and identify which products have the highest win rates. By analyzing key metrics such as total bookings, average deal size, win rate, and time to close, we will uncover actionable insights to improve sales performance, reduce lost opportunities, and drive profitability.
 
 **Skills Used:**  
-- Python (Pandas, NumPy)  
-- Descriptive Statistics  
-- Interactive Scripting  
-
----
-
-### Investigate Movies Dataset  
-<a id='investigate-movies-dataset'></a>  
-In this project, I analyzed a dataset of movies to uncover trends and answer key questions about the film industry. After assessing and cleaning the data, I used Python to explore relationships between variables such as budget, revenue, and ratings.  
-
-**Skills Used:**  
-- Python (Pandas, NumPy, Matplotlib)  
-- Data Wrangling  
-- Data Visualization  
+- Excel (Pivot Tables, Power Pivot, Power Query)
+- Descriptive Statistics
+- Data Visualization
+  
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/CRM%20Sales%20Opportunities%20Analysis)**
 
 ---
 
@@ -47,7 +37,9 @@ I analyzed the results of an A/B test conducted by an e-commerce website to dete
 - Python (Pandas, NumPy, Matplotlib)  
 - A/B Testing  
 - Logistic Regression  
-- Hypothesis Testing  
+- Hypothesis Testing
+  
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyze_ab_test_results)**
 
 ---
 
@@ -60,6 +52,8 @@ This project involved a deep dive into the Ford Gobike System dataset to uncover
 - Data Visualization  
 - Storytelling with Data  
 
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Ford%20GoBike%20System%20Data)**
+
 ---
 
 ### Investigate Medical Appointment No Shows 2016  
@@ -70,6 +64,8 @@ I explored a dataset of medical appointments to identify factors contributing to
 - Python (Pandas, NumPy, Matplotlib)  
 - Data Wrangling  
 - Data Visualization  
+
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Medical%20Appointment%20No%20Shows%202016)**
 
 ---
 
@@ -82,6 +78,8 @@ In this project, I analyzed Telco customer churn data to understand why customer
 - Data Visualization  
 - Storytelling with Data  
 
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Telco%20Customer%20Churn%20Data%20Exploration)**
+
 ---
 
 ### Top Countries for Business Expansion  
@@ -92,6 +90,8 @@ Using data from Gapminder, I analyzed key indicators such as GDP per capita, pop
 - Python (Pandas, NumPy, Matplotlib)  
 - Data Wrangling  
 - Data Visualization  
+
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Top%20Countries%20for%20Business%20Expansion)**
 
 ---
 
@@ -104,6 +104,34 @@ I analyzed a telecom customer churn dataset to uncover reasons behind customer a
 - Data Cleaning and Transformation  
 - Exploratory Data Analysis (EDA)  
 - Data Visualization  
+
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyzing%20Customer%20Churn)**
+
+---
+
+### Investigate Movies Dataset  
+<a id='investigate-movies-dataset'></a>  
+In this project, I analyzed a dataset of movies to uncover trends and answer key questions about the film industry. After assessing and cleaning the data, I used Python to explore relationships between variables such as budget, revenue, and ratings.  
+
+**Skills Used:**  
+- Python (Pandas, NumPy, Matplotlib)  
+- Data Wrangling  
+- Data Visualization
+
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Investigate%20movies%20dataset)**
+
+---
+
+### Exploring US Bikeshare Data  
+<a id='exploring-us-bikeshare-data'></a>  
+This project explores bike share system data for three major U.S. cities: Chicago, New York City, and Washington. Using Python, I computed descriptive statistics and created an interactive terminal experience to present insights about bike usage patterns, peak hours, and user demographics.  
+
+**Skills Used:**  
+- Python (Pandas, NumPy)  
+- Descriptive Statistics  
+- Interactive Scripting
+  
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Bikeshare%20Data%20Exploration)**
 
 ---
 
