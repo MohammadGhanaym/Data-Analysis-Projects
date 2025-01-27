@@ -1,8 +1,8 @@
 # Overview
 In this analysis, I will help a computer hardware company evaluate the performance of its sales teams and agents and identify which products have the highest win rates. By analyzing key metrics such as total bookings, average deal size, win rate, and time to close, we will uncover actionable insights to improve sales performance, reduce lost opportunities, and drive profitability.
-
-																																																		
-![image.png](Visualizations/8c4e71f3-edb8-435f-9b02-26ead5406bd4.png)
+																											
+																														
+![image.png](Visualizations/36f1d590-9cdf-4b77-9a11-3b4eccbd205d.png)
 
 
 ## **Data Gathering**
@@ -170,13 +170,13 @@ However, before we begin, we will use **Power Pivot** to establish relationships
 Now, we will address the main questions.
 
 ### What is the total bookings for each sales team per region?
-![image.png](Visualizations/4874b1de-bb82-4d77-aad0-359a4d0eac7e.png)
+![image.png](Visualizations/e604fd26-6f77-4ff2-8487-9ab840ff3eb1.png)
 
 - Every region has a sales team that outperforms the others. Since this pattern appears in every region, it’s possible that each team focuses on deals for specific products based on price. We need to investigate this more.
 - The total bookings for **Melvin Marxen's sales team** are the largest, reflecting their ability to close a high number of deals.  
 - **Rocco Neubert's sales team** has the highest average deal size, reflecting their ability to close riskier deals, even though they do not have the largest total bookings.
 
-![image.png](Visualizations/c804903a-7555-4fa2-96bc-d798ffa48a8a.png)
+![image.png](Visualizations/beecc7b9-d68a-4f2e-8cc6-a94f34f91ad0.png)
 
 - In each region, the team that generates higher revenue than the other tends to close more deals involving high-value products, while the other team tends to close more deals involving low-value products.  
 - **Celia Rouche's sales team** is the only team that sold the **GTK 500**, the most expensive product. This is what drives their average deal size to a higher value.  
@@ -184,7 +184,7 @@ Now, we will address the main questions.
 
 ### What are the trends in win rate over time?
 
-![image.png](Visualizations/a125ef6a-5433-474b-acd9-997fd7b5624c.png)
+![image.png](Visualizations/b00b48b6-bc73-4309-8d86-2f6e6cdeb60f.png)
 
 - There is a noticeable monthly trend in the win rate, as it increases every two months across all regions. Specifically:  
   - It increases in **March** and decreases in **April** and **May**.  
@@ -197,7 +197,7 @@ Now, we will address the main questions.
 
 #### What is the average time to close a deal per sales team?
 
-![image.png](Visualizations/e2e9c8fa-0a0c-4148-b984-bd63a6679618.png)
+![image.png](Visualizations/2a156bd5-2880-446b-b568-4d0dbcaf7b58.png)
 
 
 - Dustin Brinkmann's team takes the longest time to close deals but has a lower win rate compared to other teams, such as Cara Losch's team and Summer Sewald's team, which perform above the trendline. This suggests that spending more time on deals does not necessarily translate into higher win rates for this team, indicating potential inefficiencies in their sales process.
@@ -210,11 +210,47 @@ Now, we will address the main questions.
 
 #### Which sales agent has the top performance?  
 
+![image.png](Visualizations/9c3c5926-84b4-4a4c-bf87-e76d4a9769c5.png)
 
-![image.png](Visualizations/4acb4fe0-034e-4270-93ee-82fa89dcb9a9.png)
+- **Hayden Neloms** is the sales agent with the highest win rate of **70.39%**. He is managed by **Celia Rouche** in the **West** region.
 
-Hayden Neloms is the sales agent with the highest win rate of 70.39%. He is managed by Celia Rouche in the West region.
+- **Darcel Schlecht** is the sales agent with the highest total bookings, amounting to **$1,153,214**. He is managed by **Melvin Marxen** in the **Central** region. His total bookings are significantly higher compared to those of other sales agents.
 
-Darcel Schlecht is the sales agent with the highest total bookings, amounting to $1,153,214. He is managed by Melvin Marxen in the Central region. His total bookings are significantly higher compared to those of the other sales agents.
+- **Lajuana Vencill** is the sales agent with the lowest win rate of **54.98%**, which is significantly low. She is managed by **Dustin Brinkmann** in the **Central** region. We need to train him and help him do better.
 
-Lajuana Vencill is the sales agent with the lowest win rate of 54.98%, which is significantly low. She is managed by Dustin Brinkmann in the Central region.
+- There are sales agents with win rates below the overall average. We need to analyze the strategies used by sales agents with high win rates and share these strategies with those who have lower win rates.
+
+- If we examine the win rates of sales agents at the end of a quarter (e.g., March), we find that the win rates are very high for most agents, with about half achieving win rates above **80%**. In contrast, at the beginning of a quarter, most sales agents have win rates below **50%**, which is too low. Sales agents who perform poorly at the beginning of a quarter tend to perform better by the end of the quarter. This may depend on the time it takes them to close deals.
+
+
+### Recommendations
+
+### **Central Region**
+
+#### **Dustin Brinkmann's Sales Team**  
+- This team closed 1,186 deals with a 62.98% win rate. However, its total bookings are significantly lower compared to Melvin Marxen's team in the same region and other teams in other regions. The team tends to close deals involving low-value products. For example, it sells **MG Special** more than any other product, but its value is only $55. Training is needed to help this team develop the skills to close riskier, higher-value deals.  
+- **Lajuana Vencill** has the lowest win rate in the team at 54.98%. Additional training should be provided to this sales agent, and we need to investigate why they lose about half of their deals.  
+ 
+#### **Melvin Marxen's Sales Team**  
+- This team closed 1,418 deals with a 62.2% win rate, achieving the highest total bookings. It turns out that **Darcel Schlecht** is the top contributor to this high figure, with a total closed deals value of $1,153,214, which is significantly high. We need to investigate how he achieved this success so we can help other sales agents adopt similar strategies.  
+- This team has also sold the highest number of products. They tend to sell high-value products more frequently than low-value ones.  
+- Despite the team's high total bookings, it has a relatively low win rate and a high average time to close a deal compared to other teams. **Gladys Colclough** has the lowest win rate in the team, even though his total bookings are higher than those of some of his teammates.  
+- This team contributes the most to the company's revenue. If we provide them with training and resources, they could help the company generate even more revenue.  
+
+### **East Region**
+#### **Cara Losch's Sales Team**
+- This team closed 745 deals with a 64.43% win rate, the highest among all teams. Although its total bookings are similar to Dustin Brinkmann's, its average deal size is higher, which indicates it closes riskier deals. For example, Cara Losch's team sold GTX Pro, which costs $4,821, while Dustin Brinkmann's team did not sell any. This contributes to the higher average deal size for Cara Losch.
+- We need to train this team to close more deals since it has the lowest number of sold products.
+
+#### **Rocco Neubert's Sales Team**
+- This team closed 1,113 deals and has higher total bookings than Cara Losch's team but the lowest win rate among all teams. It also has the highest average deal size, reflecting its ability to close high-value deals. This suggests the team may target riskier deals, which could explain the lower win rate.
+- Donn Cantrell has the lowest win rate in the group but maintains high total bookings.
+
+### **West Region**
+#### **Celia Rouche's Sales Team**
+- This team closed 962 deals with a 63.41% win rate, which is lower than Summer Sewald's team. It also has lower total bookings than Summer Sewald's team but a higher average deal size. This is because it is the only team that sold the most expensive product, GTK 500, which costs $26,768.
+- **Hayden Neloms** has the highest win rate among all sales teams. We need to analyze the strategies he applies so we can train other agents to follow them.
+- Despite having the sales agent with the highest win rate, this team also includes **Markita Hansen**, who has the second-lowest win rate among all agents.
+
+#### **Summer Sewald's Sales Team**
+- This team closed 1,287 deals with a 64.34% win rate, the second-highest among all teams. It has good total bookings and a good average deal size. The lowest win rate in the team is 61.69%, attributed to **Zane Levy**. We need to train Zane Levy to include more high-value products in his deals and to improve his overall win rate.
