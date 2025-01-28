@@ -1,8 +1,7 @@
 # Overview
-In this analysis, I will help a computer hardware company evaluate the performance of its sales teams and agents and identify which products have the highest win rates. By analyzing key metrics such as total bookings, average deal size, win rate, and time to close, we will uncover actionable insights to improve sales performance, reduce lost opportunities, and drive profitability.
-																											
+In this analysis, I will help a computer hardware company evaluate the performance of its sales teams and agents. By analyzing key metrics such as total bookings, average deal size, win rate, and time to close, we will uncover actionable insights to improve sales performance, reduce lost opportunities, and drive profitability.													
 																														
-![image.png](Visualizations/36f1d590-9cdf-4b77-9a11-3b4eccbd205d.png)
+![image.png](Visualizations/dashboard.gif)
 
 
 ## **Data Gathering**
@@ -168,6 +167,10 @@ However, before we begin, we will use **Power Pivot** to establish relationships
 
 ## Drawing Conclusions
 Now, we will address the main questions.
+
+![image.png](Visualizations/8b2ca8ec-e62b-4e95-b413-4565a4660ee8.png)
+
+- Our company has total bookings of approximately $10M and 6,711 closed deals, with a win rate of 63.15%. This indicates a loss rate of about 37% for deals.
 
 ### What is the total bookings for each sales team per region?
 ![image.png](Visualizations/e604fd26-6f77-4ff2-8487-9ab840ff3eb1.png)
