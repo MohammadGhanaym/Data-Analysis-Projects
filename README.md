@@ -18,10 +18,10 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 
 ### Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities
 <a id='CRM-Sales-Opportunities-Analysis'></a>  
-In this analysis, I will help a computer hardware company evaluate the performance of its sales teams and agents and identify which products have the highest win rates. By analyzing key metrics such as total bookings, average deal size, win rate, and time to close, we will uncover actionable insights to improve sales performance, reduce lost opportunities, and drive profitability.
+In this analysis, I investigated data from a computer hardware company to evaluate the performance of its sales teams and agents. By examining key metrics such as total bookings, average deal size, win rate, and time to close, we can uncover actionable insights to enhance sales performance, minimize lost opportunities, and increase profitability.
 
 **Skills Used:**  
-- Excel (Pivot Tables, Power Pivot, Power Query)
+- Excel (Pivot Tables, Power Pivot, Power Query, DAX)
 - Descriptive Statistics
 - Data Visualization
   
