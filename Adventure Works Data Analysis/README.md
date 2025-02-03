@@ -127,4 +127,5 @@ Format our numbers using this formula:
 ```  
 
 
-- Now, let's calculate the percentage increase or decrease between two years in our KPIs.
+- We created a clustered bar chart to display the total profit, total revenue, and total transactions for each year, and we added a button for each KPI to switch between them.
+- Now, let's calculate the percentage increase or decrease between two years for our KPIs.
