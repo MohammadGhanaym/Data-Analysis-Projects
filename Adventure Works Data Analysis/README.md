@@ -1,7 +1,7 @@
 ## Overview
 In this project, I'm going to analyze transactional data that has been gathered over 4 years. The main goal of this analysis is to create visual representations of the data to assess the performance over these years. The primary interest of the stakeholders is in analyzing the profit. Specifically, the focus will be on the analysis of products, customer locations (countries), and time trends to identify any patterns or trends.
 
-![image.gif](Animation3.gif)
+![image.gif](Dashboard.gif)
 
 ## Data Gathering
 The data is stored in an Excel file, so I downloaded it and imported it into my analysis file. The file contains six sheets: `DimCustomer`, `DimDate`, `DimGeography`, `DimProduct`, `DimSalesTerritory`, and `FactInternetSales`.
