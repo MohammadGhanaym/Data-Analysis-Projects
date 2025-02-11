@@ -1,6 +1,8 @@
 ## Overview
 In this project, I'm going to analyze transactional data that has been gathered over 4 years. The main goal of this analysis is to create visual representations of the data to assess the performance over these years. The primary interest of the stakeholders is in analyzing the profit. Specifically, the focus will be on the analysis of products, customer locations (countries), and time trends to identify any patterns or trends.
 
+![image.gif](Animation3.gif)
+
 ## Data Gathering
 The data is stored in an Excel file, so I downloaded it and imported it into my analysis file. The file contains six sheets: `DimCustomer`, `DimDate`, `DimGeography`, `DimProduct`, `DimSalesTerritory`, and `FactInternetSales`.
 
@@ -127,5 +129,43 @@ Format our numbers using this formula:
 ```  
 
 
-- We created a clustered bar chart to display the total profit, total revenue, and total transactions for each year, and we added a button for each KPI to switch between them.
-- Now, let's calculate the percentage increase or decrease between two years for our KPIs.
+#### **Time Series Dashboard Design**
+- We created a bar chart to display the total profit, total revenue, and total transactions for each year, and we added a button for each KPI to switch between them.  
+- We computed the average for each KPI and highlighted the years where the total KPI value was above the average in this chart.  
+- We also calculated the contribution percentage for the years that are above the average for each KPI.  
+- We calculated the percentage increase or decrease between two years for our KPIs.  
+- We created a line chart to show the total profit trends over the months.  
+  - We used **Power Pivot** to sort the **Month Name** column by the **Month Number** column in the **DimDate** table.  
+  - We calculated the contribution of the top three months to the total profit.  
+- We created a line chart to show the total profit trends over the weekdays.  
+  - We **highlighted** the top three days with the highest total profit.
+- We created a donut chart to show the total profit per day type (weekday, weekend)
+    - We calculated the make-up percentage per day type of the total profit
+- We created four cards to show the total profit per year quarter.
+- We created a filter to filter our analysis by country
+
+#### **Product & Customer Dashboard Design**  
+
+The top part of this chart is for product analysis:  
+- We created a bar chart to show the top 5 products that contribute to the profit and their contribution percentage.  
+- We created 3 cards to display the total available products, sold products, and unsold products.  
+- We created a bar chart to show the total profit by product colors.  
+- We used Power Query to create a column called `Product Price Type` that categorizes prices as `Less Expensive` (≤ \$150) or `Expensive` (> \$150).  
+  - We created a bubble chart to show the total profit for each category and its contribution to profit.  
+
+The bottom part of this chart is for customer analysis:  
+- We created a bar chart to show the top 5 customers that contribute to the profit and their contribution percentage.  
+- We calculated a new measure for the number of unique customers:  
+    ```DAX
+    =DISTINCTCOUNT(FactInternetSales[CustomerKey])
+    ```
+- We created a new column for customer age and another column to categorize customers into age groups.  
+- We calculated a new measure for the average customer age:  
+    ```DAX
+    =AVERAGE(DimCustomer[Customer Age])
+    ```
+- We created 2 cards to display the total number of unique customers and the average customer age.
+- We created **two** cards to show the percentage contribution **to the profit** for each gender.  
+- We created a column chart to show the total **profit** for each age group and the percentage contribution to the total profit for the age group that has the largest total profit.  
+- We created a map to show the total profit for each country and the percentage contribution to the total profit for the two countries that **have** the largest total profit.  
+
