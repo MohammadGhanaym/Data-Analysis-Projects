@@ -9,11 +9,12 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 2. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
 3. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
 4. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
-5. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**  
-6. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
-7. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
-8. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
-9. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+5. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
+6. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
+7. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
+8. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
+9. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
+10. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
 ---
 
 ### Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities
@@ -81,7 +82,17 @@ In this project, I analyzed Telco customer churn data to understand why customer
 👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Telco%20Customer%20Churn%20Data%20Exploration)**
 
 ---
+### Adventure Works Data Analysis
+<a id='Adventure-Works-Data-Analysis'></a>  
+In this project, I'm going to analyze transactional data that has been gathered over 4 years. The main goal of this analysis is to create visual representations of the data to assess the performance over these years. The primary interest of the stakeholders is in analyzing the profit. Specifically, the focus will be on the analysis of products, customer locations (countries), and time trends to identify any patterns or trends.
 
+**Skills Used:**  
+- Excel (DAX, Power Query, Power Pivot, Pivot Tables)  
+- Data Visualization  
+  
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Adventure%20Works%20Data%20Analysis)**
+
+---
 ### Top Countries for Business Expansion  
 <a id='top-countries-for-business-expansion'></a>  
 Using data from Gapminder, I analyzed key indicators such as GDP per capita, population growth, and ease of doing business to identify the best countries for business expansion. This project involved data wrangling, visualization, and strategic recommendations.  
