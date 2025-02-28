@@ -5,18 +5,31 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 ---
 
 ## Projects
-1. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
-2. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
-3. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
-4. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
-5. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
-6. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
-7. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
-8. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
-9. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
-10. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+1. **[E-commerce Analytics: Sales, Customer Behavior & Marketing Insights](#E_commerce_Analytics)**
+2. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
+3. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
+4. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
+5. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
+6. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
+7. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
+8. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
+9. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
+10. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
+11. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
 ---
+### E-commerce Analytics: Sales, Customer Behavior & Marketing Insights
+<a id='E_commerce_Analytics'></a>  
+In this project, I will analyze the product performance, customer behavior, and logistics efficiency for an e-commerce platform, Olist Store.
+I will also extend my analysis to identify the marketing funnel performance and sales reps' effectiveness.
 
+**Skills Used:**  
+- Python (Pandas, Numpy, Matplotlib, Seaborn)
+- Descriptive Statistics
+- Data Visualization
+  
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyze%20E-commerce%20dataset%20by%20Olist)**
+
+---
 ### Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities
 <a id='CRM-Sales-Opportunities-Analysis'></a>  
 In this analysis, I investigated data from a computer hardware company to evaluate the performance of its sales teams and agents. By examining key metrics such as total bookings, average deal size, win rate, and time to close, we can uncover actionable insights to enhance sales performance, minimize lost opportunities, and increase profitability.
