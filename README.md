@@ -5,17 +5,30 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 ---
 
 ## Projects
-1. **[E-commerce Analytics: Sales, Customer Behavior & Marketing Insights](#E_commerce_Analytics)**
-2. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
-3. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
-4. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
-5. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
-6. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
-7. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
-8. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
-9. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
-10. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
-11. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+1. **[Customer Personality Analysis](#Customer_Personality_Analysis)**
+2. **[E-commerce Analytics: Sales, Customer Behavior & Marketing Insights](#E_commerce_Analytics)**
+3. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
+4. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
+5. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
+6. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
+7. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
+8. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
+9. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
+10. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
+11. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
+12. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+---
+### Customer Personality Analysis
+<a id='Customer_Personality_Analysis'></a>  
+In this project, I analyzed the characteristics of a sample of IFood customers who accepted the last campaign offer. I helped them identify customers who are more likely to accept an offer, enabling them to make personalized campaigns to target the right customers and save money.
+
+**Skills Used:**  
+- Excel (Power Query, Power Pivot, DAX, Power Pivot)
+- Descriptive Statistics
+- Data Visualization
+  
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Customer%20Personality%20Analysis)**
+
 ---
 ### E-commerce Analytics: Sales, Customer Behavior & Marketing Insights
 <a id='E_commerce_Analytics'></a>  
