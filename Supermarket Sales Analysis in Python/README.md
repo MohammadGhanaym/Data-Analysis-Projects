@@ -982,7 +982,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_43_0.png)
+![png](README_Images/output_43_0.png)
     
 
 
@@ -1061,7 +1061,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_51_0.png)
+![png](README_Images/output_51_0.png)
     
 
 
@@ -1096,7 +1096,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_56_0.png)
+![png](README_Images/output_56_0.png)
     
 
 
@@ -1112,7 +1112,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_58_0.png)
+![png](README_Images/output_58_0.png)
     
 
 
@@ -1129,7 +1129,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_60_0.png)
+![png](README_Images/output_60_0.png)
     
 
 
@@ -1356,7 +1356,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_63_0.png)
+![png](README_Images/output_63_0.png)
     
 
 
@@ -1392,7 +1392,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_67_0.png)
+![png](README_Images/output_67_0.png)
     
 
 
@@ -1514,7 +1514,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_70_0.png)
+![png](README_Images/output_70_0.png)
     
 
 
@@ -1546,7 +1546,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_74_0.png)
+![png](README_Images/output_74_0.png)
     
 
 
@@ -1570,7 +1570,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_77_0.png)
+![png](README_Images/output_77_0.png)
     
 
 
@@ -1594,7 +1594,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_80_0.png)
+![png](README_Images/output_80_0.png)
     
 
 
@@ -1614,7 +1614,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_82_0.png)
+![png](README_Images/output_82_0.png)
     
 
 
@@ -1629,7 +1629,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_84_0.png)
+![png](README_Images/output_84_0.png)
     
 
 
@@ -1645,7 +1645,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_86_0.png)
+![png](README_Images/output_86_0.png)
     
 
 
@@ -1670,7 +1670,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_89_0.png)
+![png](README_Images/output_89_0.png)
     
 
 
@@ -1720,7 +1720,7 @@ plt.show()
 
 
     
-![png](Presentations Images/output_93_0.png)
+![png](README_Images/output_93_0.png)
     
 
 
@@ -1746,7 +1746,7 @@ plt.savefig('Vis/11_ma_revenue_over_time')
 
 
     
-![png](Presentations Images/output_96_0.png)
+![png](README_Images/output_96_0.png)
     
 
 
@@ -1986,71 +1986,71 @@ high_revenue_orders
 
 # Communicating Results
 
-![image.png](Presentations Images/f8354de1-705c-4fb9-bf6e-5c953742dcef.png)
+![image.png](README_Images/f8354de1-705c-4fb9-bf6e-5c953742dcef.png)
 
-![image.png](Presentations Images/43c693e9-5dd0-48e1-8eb6-074434fbe5d3.png)
+![image.png](README_Images/43c693e9-5dd0-48e1-8eb6-074434fbe5d3.png)
 
-![image.png](Presentations Images/d6baa0b3-ad1f-4eed-bf36-d2da708ec3a5.png)
+![image.png](README_Images/d6baa0b3-ad1f-4eed-bf36-d2da708ec3a5.png)
 
-![image.png](Presentations Images/f49caac3-d3d0-4bd2-84ed-6df92a8226ab.png)
+![image.png](README_Images/f49caac3-d3d0-4bd2-84ed-6df92a8226ab.png)
 
-![image.png](Presentations Images/6d124b30-5086-42cf-a08f-62ec004f30fd.png)
+![image.png](README_Images/6d124b30-5086-42cf-a08f-62ec004f30fd.png)
 
-![image.png](Presentations Images/10136b73-61ae-46d6-b975-3f329c49ff64.png)
+![image.png](README_Images/10136b73-61ae-46d6-b975-3f329c49ff64.png)
 
-![image.png](Presentations Images/cf07202e-c225-4aee-82ab-5706fc83229d.png)
+![image.png](README_Images/cf07202e-c225-4aee-82ab-5706fc83229d.png)
 
-![image.png](Presentations Images/ee532bd2-1048-41e4-9ca6-c393513f1a8e.png)
+![image.png](README_Images/ee532bd2-1048-41e4-9ca6-c393513f1a8e.png)
 
-![image.png](Presentations Images/41595b20-d413-4428-8812-870b449e05d6.png)
+![image.png](README_Images/41595b20-d413-4428-8812-870b449e05d6.png)
 
-![image.png](Presentations Images/38b77e6c-5397-443f-b500-c5bc8b5cc6dc.png)
+![image.png](README_Images/38b77e6c-5397-443f-b500-c5bc8b5cc6dc.png)
 
-![image.png](Presentations Images/a883c4f6-cde8-4016-aa24-54c3a9e23884.png)
+![image.png](README_Images/a883c4f6-cde8-4016-aa24-54c3a9e23884.png)
 
-![image.png](Presentations Images/c7039423-1db6-40d2-85d8-ae61629c67ea.png)
+![image.png](README_Images/c7039423-1db6-40d2-85d8-ae61629c67ea.png)
 
-![image.png](Presentations Images/2118af5b-1e1d-4f70-b894-7c6b3a4cdde0.png)
+![image.png](README_Images/2118af5b-1e1d-4f70-b894-7c6b3a4cdde0.png)
 
-![image.png](Presentations Images/811fd70f-8f84-4946-b18e-01f32241a2ba.png)
+![image.png](README_Images/811fd70f-8f84-4946-b18e-01f32241a2ba.png)
 
-![image.png](Presentations Images/81811b27-25e4-49dd-a201-76fb245bbf69.png)
+![image.png](README_Images/81811b27-25e4-49dd-a201-76fb245bbf69.png)
 
-![image.png](Presentations Images/301b76ef-d80c-494a-b697-a64bf6e6a7c6.png)
+![image.png](README_Images/301b76ef-d80c-494a-b697-a64bf6e6a7c6.png)
 
-![image.png](Presentations Images/001774ea-0c0a-4262-8679-3b942009f5f4.png)
+![image.png](README_Images/001774ea-0c0a-4262-8679-3b942009f5f4.png)
 
-![image.png](Presentations Images/27a41394-d92f-4c5e-854f-18fea6b86b7d.png)
+![image.png](README_Images/27a41394-d92f-4c5e-854f-18fea6b86b7d.png)
 
-![image.png](Presentations Images/6c77a3a0-f97f-458d-b04d-48bb3aab0a2f.png)
+![image.png](README_Images/6c77a3a0-f97f-458d-b04d-48bb3aab0a2f.png)
 
-![image.png](Presentations Images/d1f618e0-387e-4d54-a304-5b5eb3f090fb.png)
+![image.png](README_Images/d1f618e0-387e-4d54-a304-5b5eb3f090fb.png)
 
-![image.png](Presentations Images/a6cc2be0-e56d-49fd-94dc-0d2947dff0de.png)
+![image.png](README_Images/a6cc2be0-e56d-49fd-94dc-0d2947dff0de.png)
 
-![image.png](Presentations Images/1ca21732-99a9-4d4f-8cee-54663b7b7607.png)
+![image.png](README_Images/1ca21732-99a9-4d4f-8cee-54663b7b7607.png)
 
-![image.png](Presentations Images/a16bd5d7-c863-41e6-a2b0-32f989338d81.png)
+![image.png](README_Images/a16bd5d7-c863-41e6-a2b0-32f989338d81.png)
 
-![image.png](Presentations Images/bd9c900c-dd23-4f31-bb21-c99a8cb0498d.png)
+![image.png](README_Images/bd9c900c-dd23-4f31-bb21-c99a8cb0498d.png)
 
-![image.png](Presentations Images/4bd171db-abfb-44b1-9f15-98c858f0ee26.png)
+![image.png](README_Images/4bd171db-abfb-44b1-9f15-98c858f0ee26.png)
 
-![image.png](Presentations Images/428e094e-4080-4f44-af72-e0288da5f096.png)
+![image.png](README_Images/428e094e-4080-4f44-af72-e0288da5f096.png)
 
-![image.png](Presentations Images/f928a45f-75a7-4ed1-82bd-38a69fc709f6.png)
+![image.png](README_Images/f928a45f-75a7-4ed1-82bd-38a69fc709f6.png)
 
-![image.png](Presentations Images/ba796dec-9aea-49d1-92aa-998694176c0f.png)
+![image.png](README_Images/ba796dec-9aea-49d1-92aa-998694176c0f.png)
 
-![image.png](Presentations Images/7cbe72ca-3a40-4f17-8d19-d33c953c5146.png)
+![image.png](README_Images/7cbe72ca-3a40-4f17-8d19-d33c953c5146.png)
 
-![image.png](Presentations Images/1755280a-6dce-4218-93dc-002a0fb5f424.png)
+![image.png](README_Images/1755280a-6dce-4218-93dc-002a0fb5f424.png)
 
-![image.png](Presentations Images/36ea165f-2c5a-40f1-8505-c2b4e42b16ef.png)
+![image.png](README_Images/36ea165f-2c5a-40f1-8505-c2b4e42b16ef.png)
 
-![image.png](Presentations Images/38847191-8d65-4f99-8b1d-9915fecabc8e.png)
+![image.png](README_Images/38847191-8d65-4f99-8b1d-9915fecabc8e.png)
 
-![image.png](Presentations Images/56244f31-e1d9-4972-be1f-e5434f9857f4.png)
+![image.png](README_Images/56244f31-e1d9-4972-be1f-e5434f9857f4.png)
 
 # Limitations
 - I have only three months of data, so I can't reliably identify trends over time.  
