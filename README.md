@@ -5,18 +5,33 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 ---
 
 ## Projects
-1. **[Customer Personality Analysis](#Customer_Personality_Analysis)**
-2. **[E-commerce Analytics: Sales, Customer Behavior & Marketing Insights](#E_commerce_Analytics)**
-3. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
-4. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
-5. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
-6. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
-7. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
-8. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
-9. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
-10. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
-11. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
-12. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+1. **[Supermarket Sales Analysis in Python](#Supermarket_Sales_Analysis)**
+2. **[Customer Personality Analysis](#Customer_Personality_Analysis)**
+3. **[E-commerce Analytics: Sales, Customer Behavior & Marketing Insights](#E_commerce_Analytics)**
+4. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
+5. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
+6. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
+7. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
+8. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
+9. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
+10. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
+11. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
+12. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
+13. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+---
+### Supermarket Sales Analysis in Python
+<a id='Supermarket_Sales_Analysis'></a>  
+In this project, I will analyze branch performance, revenue trends, product line ratings per branch, and the impact of customer type on revenue.
+
+**Skills Used:**  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Descriptive Statistics
+- Exploratory Data Analysis (EDA)
+- Data Visualization and Reporting
+- Data Storytelling
+  
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Supermarket%20Sales%20Analysis%20in%20Python)**
+
 ---
 ### Customer Personality Analysis
 <a id='Customer_Personality_Analysis'></a>  
