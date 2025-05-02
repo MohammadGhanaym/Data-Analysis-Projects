@@ -5,19 +5,36 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 ---
 
 ## Projects
-1. **[Supermarket Sales Analysis in Python](#Supermarket_Sales_Analysis)**
-2. **[Customer Personality Analysis](#Customer_Personality_Analysis)**
-3. **[E-commerce Analytics: Sales, Customer Behavior & Marketing Insights](#E_commerce_Analytics)**
-4. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
-5. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
-6. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
-7. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
-8. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
-9. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
-10. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
-11. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
-12. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
-13. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+1. **[Supply Chain Analysis in Power BI](#Supply_Chain_Analysis_in_Power_BI)**
+2. **[Supermarket Sales Analysis in Python](#Supermarket_Sales_Analysis)**
+3. **[Customer Personality Analysis](#Customer_Personality_Analysis)**
+4. **[E-commerce Analytics: Sales, Customer Behavior & Marketing Insights](#E_commerce_Analytics)**
+5. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
+6. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
+7. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
+8. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
+9. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
+10. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
+11. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
+12. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
+13. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
+14. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+---
+### Supply Chain Analysis in Power BI
+<a id='Supply_Chain_Analysis_in_Power_BI'></a>  
+In this project, we will analyze supply chain data to optimize shipping operations and enhance the customer delivery experience. Our analysis will focus on shipping performance and timeliness, customer delivery behavior across regions, and the relationship between sales performance and shipping efficiency.
+
+**Skills Used:**  
+- Power BI (Power Query, DAX)
+- Descriptive Statistics
+- Dashboard Design
+- Data Modeling
+- Exploratory Data Analysis (EDA)
+- Data Visualization and Reporting
+- Data Storytelling
+  
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Supply%20Chain%20Analysis%20in%20Power%20BI)**
+
 ---
 ### Supermarket Sales Analysis in Python
 <a id='Supermarket_Sales_Analysis'></a>  
