@@ -103,8 +103,8 @@ Let's assess the data and identify potential issues.
 
 ![image.png](Vis/bd33af71-c9f1-489c-925e-90e750d284f9.png)
 - There are 64K total orders and 19K unique customers.
-- The total revenue is \\$32.76M, and the total profit is \\$3.93M, resulting in a 12.01% profit margin.
-- The total discount amount is \\$3.7M, which is very close to the total profit.
+- The total revenue is \$32.76M, and the total profit is \$3.93M, resulting in a 12.01% profit margin.
+- The total discount amount is \$3.7M, which is very close to the total profit.
 
 ![image.png](Vis/3ad004ff-80da-4c75-b623-50dc08771afe.png)
 - We can see that the most profitable store is the one that offers more discounts.
@@ -229,7 +229,7 @@ On this page, we can track the delayed orders. We can filter by state and market
 # Conclusions
 - There are 64K total orders and 19K unique customers.
 
-- The total revenue is \\$32.76M, and the total profit is \\$3.93M, resulting in a 12.01% profit margin.
+- The total revenue is \$32.76M, and the total profit is \$3.93M, resulting in a 12.01% profit margin.
 
 - The total discount amount is $3.7M, which is very close to the total profit.
 
