@@ -2,15 +2,17 @@
 In this project, we will analyze supply chain data to optimize shipping operations and enhance the customer delivery experience. Our analysis will focus on shipping performance and timeliness, customer delivery behavior across regions, and the relationship between sales performance and shipping efficiency.
 
 ![dashboard.gif](Vis/Dashboard.gif)
-We will try to answer questions like:
-- Which region and market have the highest number of late product deliveries?  
-- Which region and store generate the highest profit?  
-- Are late orders related to specific departments?  
-- Which region has the highest number of orders?  
-- Do you have customer churn? 
-- What are the order trends over time?  
-- Is there a relationship between discounts and low profit?  
-- Which customer segments generate the highest profit?
+
+We’ll try to answer questions like:
+
+* Which region and market have the highest number of late product deliveries?
+* Which region and store generate the highest profit?
+* Are late orders related to specific departments?
+* Which region has the highest number of orders?
+* Do we have customer churn?
+* What are the order trends over time?
+* Is there a relationship between discounts and low profit?
+* Which customer segments generate the highest profit?
 
 # Data Gathering
 You can download the dataset from this link: [DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS
