@@ -1,0 +1,301 @@
+Employee ID,Position,Department,Country,Date of Joining,Status,Daily Working Hours
+EMP0001,Nurse,Operations,Egypt,2022-04-13,Active,9
+EMP0002,Technician,HR,UAE,2022-09-28,On Leave,8
+EMP0003,Coordinator,Operations,Qatar,2022-03-13,Active,6
+EMP0004,Nurse,Operations,KSA,2022-01-21,Active,8
+EMP0005,Coordinator,Admin,UAE,2022-05-02,On Leave,8
+EMP0006,Technician,Admin,Qatar,2022-08-03,Active,8
+EMP0007,Supervisor,Admin,Egypt,2023-04-04,Active,9
+EMP0008,Technician,Field Service,Egypt,2023-01-08,Resigned,9
+EMP0009,Technician,HR,Egypt,2023-10-26,Active,8
+EMP0010,Nurse,Field Service,UAE,2023-10-24,Resigned,6
+EMP0011,Driver,Admin,Egypt,2022-12-10,Active,9
+EMP0012,Supervisor,Admin,UAE,2023-02-18,Resigned,7
+EMP0013,Nurse,Admin,Egypt,2023-01-21,On Leave,9
+EMP0014,Coordinator,Logistics,KSA,2022-10-04,On Leave,6
+EMP0015,Nurse,Operations,KSA,2023-04-05,Resigned,7
+EMP0016,Nurse,HR,UAE,2022-01-22,Resigned,6
+EMP0017,Driver,Field Service,Egypt,2023-07-15,Active,8
+EMP0018,Driver,Logistics,KSA,2022-02-28,On Leave,8
+EMP0019,Driver,Operations,KSA,2023-11-13,On Leave,9
+EMP0020,Technician,HR,Qatar,2023-04-21,Resigned,9
+EMP0021,Driver,Admin,KSA,2022-07-09,On Leave,7
+EMP0022,Driver,Operations,KSA,2023-11-18,Active,7
+EMP0023,Driver,Field Service,Egypt,2023-07-17,Active,9
+EMP0024,Technician,Admin,Egypt,2023-07-21,Active,9
+EMP0025,Supervisor,Field Service,Qatar,2023-05-20,Active,8
+EMP0026,Driver,HR,KSA,2023-04-30,On Leave,8
+EMP0027,Coordinator,Admin,Egypt,2023-10-09,On Leave,6
+EMP0028,Coordinator,Field Service,Qatar,2022-06-16,Resigned,7
+EMP0029,Technician,HR,Qatar,2023-01-23,Active,6
+EMP0030,Nurse,Operations,KSA,2022-11-12,On Leave,7
+EMP0031,Technician,Field Service,UAE,2022-08-30,Resigned,7
+EMP0032,Supervisor,Admin,Qatar,2022-12-12,On Leave,6
+EMP0033,Driver,Admin,UAE,2022-12-06,On Leave,9
+EMP0034,Nurse,Admin,Egypt,2023-01-02,On Leave,9
+EMP0035,Driver,Operations,Egypt,2023-03-31,Resigned,9
+EMP0036,Technician,Field Service,UAE,2023-05-24,On Leave,9
+EMP0037,Driver,Admin,KSA,2022-02-04,On Leave,7
+EMP0038,Nurse,Logistics,KSA,2022-03-22,Active,9
+EMP0039,Driver,HR,UAE,2023-07-16,On Leave,9
+EMP0040,Driver,Field Service,UAE,2023-01-23,Active,7
+EMP0041,Driver,Logistics,KSA,2023-01-25,Active,7
+EMP0042,Technician,Admin,UAE,2022-04-16,Active,9
+EMP0043,Supervisor,Operations,KSA,2023-04-22,Active,8
+EMP0044,Supervisor,Admin,KSA,2023-02-06,Resigned,7
+EMP0045,Coordinator,Admin,Qatar,2023-07-10,Active,7
+EMP0046,Coordinator,HR,Egypt,2022-07-21,Resigned,7
+EMP0047,Driver,Field Service,Qatar,2022-09-27,Active,8
+EMP0048,Technician,HR,UAE,2022-09-28,Resigned,9
+EMP0049,Nurse,Admin,KSA,2023-04-07,On Leave,8
+EMP0050,Technician,Operations,UAE,2022-09-09,On Leave,6
+EMP0051,Nurse,HR,UAE,2023-12-03,Active,9
+EMP0052,Driver,Operations,KSA,2023-12-26,Resigned,9
+EMP0053,Supervisor,HR,KSA,2022-12-04,On Leave,8
+EMP0054,Coordinator,Admin,Qatar,2022-02-22,Active,9
+EMP0055,Supervisor,Field Service,KSA,2022-08-05,Active,9
+EMP0056,Nurse,Field Service,Egypt,2022-07-07,Resigned,9
+EMP0057,Supervisor,Field Service,UAE,2023-05-08,On Leave,6
+EMP0058,Nurse,Operations,Qatar,2022-06-06,On Leave,8
+EMP0059,Driver,Operations,KSA,2022-03-06,Active,6
+EMP0060,Technician,Admin,Qatar,2023-06-05,Active,9
+EMP0061,Supervisor,HR,Egypt,2022-05-09,Resigned,9
+EMP0062,Technician,Operations,Qatar,2023-10-10,On Leave,9
+EMP0063,Nurse,Operations,UAE,2022-03-04,Active,8
+EMP0064,Technician,HR,Qatar,2023-05-14,Resigned,6
+EMP0065,Supervisor,HR,Qatar,2023-01-27,Active,8
+EMP0066,Technician,Field Service,UAE,2023-02-23,Resigned,6
+EMP0067,Driver,Field Service,Egypt,2023-01-14,Resigned,6
+EMP0068,Coordinator,Field Service,KSA,2023-05-05,Active,8
+EMP0069,Driver,HR,UAE,2022-02-10,On Leave,9
+EMP0070,Coordinator,Operations,Egypt,2022-05-15,Active,6
+EMP0071,Nurse,Admin,Qatar,2022-02-02,On Leave,9
+EMP0072,Coordinator,HR,UAE,2023-05-18,On Leave,8
+EMP0073,Nurse,HR,UAE,2023-07-28,On Leave,9
+EMP0074,Nurse,HR,Qatar,2022-04-09,Active,9
+EMP0075,Coordinator,HR,UAE,2023-12-27,On Leave,8
+EMP0076,Nurse,Field Service,Egypt,2023-07-01,Resigned,6
+EMP0077,Technician,Logistics,KSA,2023-09-05,Resigned,8
+EMP0078,Supervisor,HR,Egypt,2023-04-07,Resigned,8
+EMP0079,Driver,Operations,UAE,2022-01-05,Resigned,7
+EMP0080,Coordinator,Admin,UAE,2023-05-18,Active,8
+EMP0081,Coordinator,HR,Egypt,2023-02-02,Active,8
+EMP0082,Driver,Operations,KSA,2023-01-28,Resigned,8
+EMP0083,Driver,HR,Qatar,2022-01-15,On Leave,7
+EMP0084,Driver,Admin,UAE,2023-07-08,On Leave,9
+EMP0085,Coordinator,Logistics,UAE,2023-04-06,Active,8
+EMP0086,Driver,Operations,UAE,2023-07-29,On Leave,9
+EMP0087,Coordinator,HR,Egypt,2022-08-29,Resigned,9
+EMP0088,Coordinator,HR,Egypt,2022-04-06,Active,9
+EMP0089,Driver,Admin,Qatar,2023-04-30,Resigned,8
+EMP0090,Nurse,Operations,Qatar,2022-08-19,Resigned,6
+EMP0091,Nurse,Operations,Egypt,2023-10-17,Active,8
+EMP0092,Driver,HR,Qatar,2023-06-25,On Leave,9
+EMP0093,Supervisor,Admin,UAE,2023-06-09,Active,9
+EMP0094,Nurse,HR,UAE,2023-11-30,Resigned,8
+EMP0095,Coordinator,Admin,KSA,2022-03-27,Resigned,9
+EMP0096,Technician,Operations,Egypt,2023-08-01,Resigned,7
+EMP0097,Nurse,Logistics,KSA,2023-07-11,On Leave,7
+EMP0098,Technician,Operations,Egypt,2023-10-08,On Leave,9
+EMP0099,Supervisor,Admin,KSA,2022-01-28,Active,9
+EMP0100,Technician,HR,Qatar,2023-07-10,Active,9
+EMP0101,Technician,Logistics,Qatar,2022-11-27,On Leave,9
+EMP0102,Technician,Logistics,KSA,2023-05-21,On Leave,8
+EMP0103,Nurse,Field Service,UAE,2022-12-14,Resigned,6
+EMP0104,Technician,HR,Qatar,2022-08-19,Resigned,7
+EMP0105,Driver,HR,KSA,2022-08-13,Active,6
+EMP0106,Technician,Field Service,Egypt,2023-01-12,Resigned,8
+EMP0107,Nurse,Logistics,Egypt,2023-09-25,On Leave,9
+EMP0108,Coordinator,Field Service,Egypt,2022-09-16,Active,8
+EMP0109,Nurse,Logistics,KSA,2023-12-11,On Leave,9
+EMP0110,Driver,Operations,UAE,2023-02-15,On Leave,6
+EMP0111,Supervisor,Logistics,Egypt,2022-11-14,Resigned,6
+EMP0112,Coordinator,Admin,UAE,2022-08-13,Resigned,8
+EMP0113,Coordinator,HR,Egypt,2022-08-22,Active,9
+EMP0114,Supervisor,Operations,KSA,2023-10-26,Resigned,8
+EMP0115,Supervisor,Operations,Egypt,2023-01-09,On Leave,9
+EMP0116,Driver,Operations,Egypt,2023-08-31,On Leave,9
+EMP0117,Driver,Field Service,Egypt,2022-08-21,Resigned,9
+EMP0118,Driver,Admin,KSA,2022-04-23,Active,7
+EMP0119,Supervisor,Field Service,KSA,2023-05-12,On Leave,7
+EMP0120,Coordinator,Logistics,Qatar,2023-07-18,On Leave,9
+EMP0121,Nurse,Logistics,Egypt,2023-05-25,Active,8
+EMP0122,Supervisor,Admin,Egypt,2023-01-21,Resigned,8
+EMP0123,Supervisor,Field Service,KSA,2022-04-23,On Leave,6
+EMP0124,Supervisor,HR,UAE,2023-09-17,Resigned,9
+EMP0125,Coordinator,Admin,Egypt,2022-03-22,Active,8
+EMP0126,Technician,Logistics,KSA,2022-04-23,Active,7
+EMP0127,Technician,Operations,UAE,2023-10-04,Active,9
+EMP0128,Supervisor,Admin,UAE,2023-07-20,Resigned,8
+EMP0129,Supervisor,Admin,KSA,2022-08-13,On Leave,6
+EMP0130,Supervisor,Field Service,Qatar,2023-02-07,Active,7
+EMP0131,Technician,Operations,UAE,2022-05-10,Resigned,6
+EMP0132,Technician,HR,Qatar,2023-11-15,Active,7
+EMP0133,Coordinator,HR,UAE,2023-11-03,Resigned,7
+EMP0134,Technician,Field Service,Egypt,2023-02-20,Resigned,8
+EMP0135,Coordinator,Admin,Qatar,2023-03-15,On Leave,8
+EMP0136,Supervisor,HR,Qatar,2022-07-03,Resigned,8
+EMP0137,Driver,HR,Egypt,2023-02-05,On Leave,8
+EMP0138,Supervisor,HR,Egypt,2022-10-21,Resigned,9
+EMP0139,Nurse,Logistics,KSA,2023-09-02,Resigned,7
+EMP0140,Driver,Logistics,UAE,2023-05-26,Active,9
+EMP0141,Technician,HR,Qatar,2022-05-24,On Leave,6
+EMP0142,Technician,HR,UAE,2022-07-20,Resigned,9
+EMP0143,Supervisor,Logistics,Qatar,2022-07-06,Resigned,7
+EMP0144,Nurse,HR,Qatar,2023-04-09,Resigned,6
+EMP0145,Coordinator,Operations,Qatar,2023-10-22,Resigned,9
+EMP0146,Nurse,Logistics,Egypt,2023-02-07,Resigned,7
+EMP0147,Supervisor,Admin,KSA,2023-05-26,Resigned,8
+EMP0148,Technician,Logistics,Qatar,2022-05-28,Resigned,9
+EMP0149,Nurse,Field Service,Egypt,2023-12-12,On Leave,9
+EMP0150,Supervisor,HR,Qatar,2023-05-04,Active,6
+EMP0151,Coordinator,Admin,UAE,2023-10-02,Resigned,8
+EMP0152,Coordinator,Admin,UAE,2022-12-04,Active,9
+EMP0153,Supervisor,HR,Qatar,2023-10-03,Active,8
+EMP0154,Nurse,Logistics,Qatar,2023-04-18,Resigned,7
+EMP0155,Technician,Field Service,Egypt,2022-05-31,Resigned,8
+EMP0156,Supervisor,Logistics,Qatar,2022-10-25,Resigned,8
+EMP0157,Nurse,Field Service,UAE,2022-09-20,On Leave,9
+EMP0158,Coordinator,Operations,Egypt,2022-05-24,Active,7
+EMP0159,Nurse,Operations,UAE,2023-09-16,Active,6
+EMP0160,Technician,Operations,KSA,2023-07-26,Active,6
+EMP0161,Technician,Field Service,UAE,2022-01-02,On Leave,6
+EMP0162,Technician,Field Service,Egypt,2022-10-31,Resigned,7
+EMP0163,Technician,Admin,UAE,2023-10-14,Active,6
+EMP0164,Driver,Operations,UAE,2022-02-06,Resigned,9
+EMP0165,Coordinator,Field Service,Qatar,2022-01-09,On Leave,6
+EMP0166,Technician,Operations,KSA,2022-04-09,Active,8
+EMP0167,Driver,Admin,UAE,2022-07-27,On Leave,8
+EMP0168,Nurse,Logistics,Qatar,2023-02-08,On Leave,9
+EMP0169,Driver,Operations,Egypt,2022-02-23,Active,9
+EMP0170,Supervisor,Field Service,UAE,2023-11-04,Resigned,9
+EMP0171,Driver,Field Service,KSA,2023-09-20,Resigned,8
+EMP0172,Technician,Admin,Egypt,2023-09-17,On Leave,9
+EMP0173,Coordinator,Field Service,Qatar,2023-02-24,Resigned,7
+EMP0174,Coordinator,Logistics,Egypt,2022-04-14,Active,9
+EMP0175,Nurse,Logistics,Qatar,2022-09-11,Active,8
+EMP0176,Supervisor,Admin,Qatar,2022-04-22,Resigned,7
+EMP0177,Nurse,Field Service,Egypt,2023-04-18,Active,8
+EMP0178,Supervisor,HR,Egypt,2022-06-02,Resigned,6
+EMP0179,Driver,Logistics,Egypt,2022-12-04,On Leave,7
+EMP0180,Nurse,Admin,KSA,2022-06-12,Active,9
+EMP0181,Technician,Field Service,Qatar,2023-11-12,On Leave,9
+EMP0182,Technician,Field Service,Qatar,2022-06-10,Resigned,9
+EMP0183,Nurse,Operations,Egypt,2023-02-02,Active,6
+EMP0184,Supervisor,HR,Egypt,2023-05-19,On Leave,9
+EMP0185,Coordinator,Logistics,Qatar,2023-01-27,On Leave,8
+EMP0186,Coordinator,Logistics,Qatar,2022-07-14,On Leave,6
+EMP0187,Coordinator,Logistics,Egypt,2023-10-02,On Leave,6
+EMP0188,Supervisor,Logistics,Egypt,2023-11-19,Resigned,9
+EMP0189,Technician,Operations,KSA,2023-04-15,Resigned,8
+EMP0190,Nurse,Admin,KSA,2022-01-22,Active,7
+EMP0191,Technician,Field Service,Egypt,2023-11-01,On Leave,7
+EMP0192,Coordinator,Admin,Egypt,2022-08-18,Active,6
+EMP0193,Technician,Logistics,KSA,2023-07-17,Resigned,7
+EMP0194,Technician,Logistics,UAE,2022-10-10,On Leave,8
+EMP0195,Coordinator,HR,Egypt,2022-08-14,Active,6
+EMP0196,Nurse,Admin,Egypt,2023-09-01,On Leave,9
+EMP0197,Technician,Field Service,UAE,2023-04-26,Active,6
+EMP0198,Coordinator,Logistics,Qatar,2023-10-21,Resigned,9
+EMP0199,Supervisor,Logistics,KSA,2023-07-01,Active,9
+EMP0200,Driver,Field Service,UAE,2022-02-18,Active,9
+EMP0201,Supervisor,Field Service,UAE,2022-01-17,On Leave,9
+EMP0202,Nurse,HR,KSA,2022-08-08,On Leave,7
+EMP0203,Driver,Operations,KSA,2023-04-22,Active,7
+EMP0204,Coordinator,Field Service,KSA,2023-01-08,On Leave,7
+EMP0205,Supervisor,Field Service,Qatar,2022-04-09,Resigned,9
+EMP0206,Coordinator,Field Service,Egypt,2022-02-06,On Leave,9
+EMP0207,Coordinator,Operations,UAE,2022-12-15,Active,6
+EMP0208,Technician,Logistics,UAE,2022-10-29,Active,6
+EMP0209,Technician,HR,UAE,2023-08-30,Active,8
+EMP0210,Nurse,Field Service,Qatar,2023-12-01,On Leave,6
+EMP0211,Coordinator,Field Service,Egypt,2022-04-26,Active,8
+EMP0212,Technician,Logistics,Egypt,2022-09-10,On Leave,6
+EMP0213,Supervisor,Operations,KSA,2022-06-10,Resigned,9
+EMP0214,Coordinator,HR,Qatar,2022-11-19,Active,9
+EMP0215,Coordinator,HR,KSA,2022-01-18,Resigned,6
+EMP0216,Technician,Operations,UAE,2023-07-20,Active,7
+EMP0217,Driver,Admin,Egypt,2022-11-19,Resigned,9
+EMP0218,Nurse,Field Service,Egypt,2023-11-17,On Leave,9
+EMP0219,Supervisor,Logistics,Qatar,2023-09-18,Resigned,9
+EMP0220,Nurse,Admin,UAE,2023-10-25,Resigned,7
+EMP0221,Driver,Admin,Egypt,2023-10-01,Active,8
+EMP0222,Nurse,HR,UAE,2023-05-05,On Leave,7
+EMP0223,Driver,Admin,UAE,2022-04-14,Active,6
+EMP0224,Supervisor,Admin,Qatar,2023-01-28,Resigned,8
+EMP0225,Technician,Admin,Qatar,2022-09-03,On Leave,9
+EMP0226,Supervisor,Operations,Qatar,2022-02-08,Resigned,6
+EMP0227,Supervisor,Logistics,Egypt,2023-11-13,On Leave,8
+EMP0228,Nurse,HR,Egypt,2023-06-22,Resigned,8
+EMP0229,Supervisor,Logistics,Qatar,2023-02-12,On Leave,6
+EMP0230,Nurse,Field Service,UAE,2023-05-21,Resigned,8
+EMP0231,Driver,Logistics,UAE,2022-02-05,Resigned,6
+EMP0232,Coordinator,Operations,Qatar,2022-01-20,Resigned,6
+EMP0233,Nurse,HR,Egypt,2023-05-27,On Leave,7
+EMP0234,Supervisor,Field Service,UAE,2023-02-04,Active,7
+EMP0235,Driver,Admin,KSA,2023-04-16,Resigned,8
+EMP0236,Supervisor,Field Service,UAE,2022-04-02,Active,7
+EMP0237,Coordinator,HR,KSA,2023-12-28,Resigned,8
+EMP0238,Coordinator,Operations,Qatar,2022-02-20,Active,6
+EMP0239,Technician,Operations,Qatar,2023-11-29,Active,8
+EMP0240,Technician,Field Service,Egypt,2022-07-09,On Leave,6
+EMP0241,Driver,Field Service,Qatar,2022-05-30,Resigned,7
+EMP0242,Technician,Field Service,KSA,2023-07-24,Resigned,7
+EMP0243,Technician,Admin,KSA,2022-11-01,Active,9
+EMP0244,Driver,Field Service,Egypt,2023-11-13,On Leave,7
+EMP0245,Driver,Operations,Egypt,2022-02-23,On Leave,8
+EMP0246,Driver,Admin,Qatar,2023-03-20,Active,6
+EMP0247,Supervisor,Admin,Qatar,2022-09-21,Resigned,6
+EMP0248,Driver,Admin,Qatar,2023-07-26,Resigned,9
+EMP0249,Driver,HR,KSA,2023-09-12,On Leave,6
+EMP0250,Supervisor,HR,Qatar,2022-04-13,Active,9
+EMP0251,Driver,Field Service,Qatar,2022-12-16,Resigned,8
+EMP0252,Technician,Field Service,UAE,2023-10-18,Active,6
+EMP0253,Coordinator,Admin,Egypt,2023-01-05,Active,9
+EMP0254,Supervisor,Operations,Qatar,2022-04-16,Active,7
+EMP0255,Technician,Field Service,KSA,2023-10-21,Active,6
+EMP0256,Supervisor,Logistics,Egypt,2022-04-30,On Leave,8
+EMP0257,Supervisor,Operations,Egypt,2023-08-27,On Leave,7
+EMP0258,Coordinator,Field Service,Egypt,2022-12-12,On Leave,6
+EMP0259,Supervisor,Admin,UAE,2023-04-19,On Leave,6
+EMP0260,Nurse,HR,Egypt,2022-05-07,Active,6
+EMP0261,Nurse,Field Service,UAE,2023-10-03,On Leave,7
+EMP0262,Nurse,Field Service,KSA,2023-09-26,On Leave,6
+EMP0263,Driver,Operations,UAE,2022-04-06,Resigned,7
+EMP0264,Nurse,Logistics,Egypt,2022-04-28,Resigned,9
+EMP0265,Supervisor,HR,KSA,2023-08-24,On Leave,9
+EMP0266,Supervisor,Admin,KSA,2022-08-25,Active,6
+EMP0267,Technician,Operations,Qatar,2022-09-29,On Leave,6
+EMP0268,Technician,Field Service,KSA,2023-12-05,Active,8
+EMP0269,Supervisor,Logistics,Qatar,2023-08-04,Resigned,7
+EMP0270,Nurse,Field Service,Egypt,2022-09-04,On Leave,8
+EMP0271,Coordinator,HR,UAE,2022-03-17,Resigned,7
+EMP0272,Driver,Admin,Egypt,2023-10-18,On Leave,8
+EMP0273,Supervisor,Logistics,Qatar,2022-03-27,Resigned,6
+EMP0274,Technician,Field Service,Qatar,2022-10-12,Active,7
+EMP0275,Technician,Field Service,Egypt,2022-08-08,On Leave,6
+EMP0276,Driver,Logistics,UAE,2022-02-16,On Leave,6
+EMP0277,Supervisor,Logistics,UAE,2022-04-04,On Leave,7
+EMP0278,Nurse,Admin,Qatar,2023-03-29,Resigned,9
+EMP0279,Technician,Admin,Egypt,2022-08-06,Active,7
+EMP0280,Technician,Admin,Egypt,2023-03-08,On Leave,6
+EMP0281,Technician,Operations,UAE,2023-07-05,Resigned,9
+EMP0282,Supervisor,Operations,Egypt,2022-10-16,On Leave,7
+EMP0283,Technician,Operations,Egypt,2022-12-23,Resigned,8
+EMP0284,Supervisor,HR,KSA,2023-06-06,Active,7
+EMP0285,Coordinator,Logistics,Egypt,2022-04-10,Active,7
+EMP0286,Driver,Field Service,Egypt,2022-06-29,On Leave,8
+EMP0287,Driver,Operations,Qatar,2023-10-21,Active,7
+EMP0288,Technician,HR,Qatar,2023-08-31,On Leave,6
+EMP0289,Driver,Operations,Qatar,2022-11-21,Active,6
+EMP0290,Driver,Admin,UAE,2023-05-31,Resigned,9
+EMP0291,Driver,Logistics,Qatar,2022-12-02,On Leave,8
+EMP0292,Driver,Operations,KSA,2022-09-15,Resigned,6
+EMP0293,Nurse,Admin,Egypt,2022-06-09,On Leave,8
+EMP0294,Technician,Operations,Qatar,2023-10-26,On Leave,9
+EMP0295,Driver,Field Service,UAE,2023-11-21,Active,8
+EMP0296,Nurse,Operations,Egypt,2023-01-15,Resigned,6
+EMP0297,Nurse,Operations,KSA,2023-11-22,On Leave,8
+EMP0298,Technician,Field Service,Qatar,2023-09-05,Resigned,9
+EMP0299,Coordinator,Field Service,KSA,2023-07-31,Resigned,6
+EMP0300,Nurse,Field Service,Qatar,2022-06-17,Resigned,7
