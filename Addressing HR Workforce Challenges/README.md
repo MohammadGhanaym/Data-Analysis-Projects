@@ -354,8 +354,3 @@ Certain projects, such as Project L and Project I, have a high percentage of esc
 - Determine whether this is due to specific challenges or if it is simply because the project is new.
 
 By implementing these actions, the company can improve employee satisfaction, reduce resignation rates, and optimize workload distribution to enhance overall performance.
-
-
-```python
-
-```
