@@ -56,22 +56,18 @@ This is calculated by dividing the total number of resigned employees by the tot
 This is calculated by dividing the total number of active employees by the total number of employees.
 - `On-leave Rate`:
 This is calculated by dividing the total number of on-leave employees by the total number of employees.
-- `Open Task Rate`:
-$$
-\frac{Total\ Number\ of\ Opened\ Tasks}{Total\ Number\ of\ Tasks}
-$$
+- `Open Task Rate`:  
+  Total Number of Opened Tasks ÷ Total Number of Tasks
 
-- `Escalated Task Rate`:
-$$
-\frac{Total\ Number\ of\ Escalated\ Tasks}{Total\ Number\ of\ Tasks}
-$$
-- `Completion Task Rate`:
-$$
-\frac{Total\ Number\ of\ Completed\ Tasks}{Total\ Number\ of\ Tasks}
-$$
+- `Escalated Task Rate`:  
+  Total Number of Escalated Tasks ÷ Total Number of Tasks
+
+- `Completion Task Rate`:  
+  Total Number of Completed Tasks ÷ Total Number of Tasks
+
 - Calculate the actual daily working hours and compare them to standard working hours to assess if employees work more than usual and whether this correlates with turnover.  
     - Calculate the difference between check-in and check-out times. Then, determine the average number of hours per employee and compare that to the standard working hours. Investigate whether employees who leave the company work more hours than average.
-- Calculate the Employee Shortage Rate to track the shortage in the number of employees per project and whether that affects the employee turnover rate.
+- Calculate the employee shortage rate to track the shortage in the number of employees per project and determine whether that affects the employee turnover rate.
 
 # Exploratory Data Analysis
 
@@ -89,32 +85,33 @@ $$
 * There are 20 projects. Most of them are located in Cairo (9 projects).
 * The minimum number of current headcount per project is 11, and the maximum is 48. The average number of current headcount is 31.5.
 * The minimum number of required headcount per project is 53, and the maximum is 99. The average number of required headcount is 77.9.
-* The Tasks table contains data for the period from 1/1/2024 to 4/30/2024 (4 months), the same time period as the Attendance table.
+* The Tasks table contains data for the period from 1/1/2024 to 4/30/2024 (4 months), the same period as the Attendance table.
 
 # Data Cleaning
 - In the `Attendance` Table
-    * Created a new column by calculating the difference between check-out and check-in times and call it **Actual Working Hours**.
+    * Created a new column by calculating the difference between check-out and check-in times and calling it **Actual Working Hours**.
     * Created a new table by grouping by the `Employee ID` column and calculating the average working hours and last attendance date per employee.
     * Joined the resulting table with the `Employees` table using an inner join on `Employee ID`.
 
 - In the `Employees` Table
-    * Created a new column that measures the difference between `Last Attendance Date` and `Date of Joining` and call it Employee Tenure (Months).
+    * Created a new column that measures the difference between `Last Attendance Date` and `Date of Joining` and calls it Employee Tenure (Months).
     * Created a new calculated column to represent the workload status. It has 3 categories: `Balanced`, `Overloaded`, and `Underloaded`
-    * Created a new calculated column to represent the assignment status (whether an employee is assigned tasks or not).
+    * Created a new calculated column to represent the assignment status (whether an employee is assigned tasks).
 
 
-- In the new created table (`_Measures`)
+- In the newly created table (`_Measures`)
     * Calculated a new measure called `Workload Variance Rate`. This measures the percentage difference between the average working hours per employee and the standard daily working hours.
-    $$
-    100 \times \frac{Avg.\ Actual\ Working\ Hours\ -\ Daily\ Working\ Hours}{Daily\ Working\ Hours}
-    $$
-        - Positive values → Overload: Employee is working more than the standard (overtime).
-        
-        - Negative values → Underload: Employee is working less than the standard.
-        
-        - 0% → Employee is working exactly the standard daily hours.
+    ```
+      Workload Variance Rate = 100 × (Avg. Actual Working Hours − Daily Working Hours) ÷ Daily Working Hours
+    ```
     
-            DAX Formual:
+    - Positive values → Overload: Employee works more than the standard (overtime).
+        
+    - Negative values → Underload: Employee is working less than the standard.
+        
+    - 0% → Employee is working exactly the standard daily hours.
+    
+            DAX Formula:
         
           ```dax
             Working Hours Variance = 
