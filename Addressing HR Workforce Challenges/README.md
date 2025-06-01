@@ -85,44 +85,44 @@ This is calculated by dividing the total number of on-leave employees by the tot
 * There are 20 projects. Most of them are located in Cairo (9 projects).
 * The minimum number of current headcount per project is 11, and the maximum is 48. The average number of current headcount is 31.5.
 * The minimum number of required headcount per project is 53, and the maximum is 99. The average number of required headcount is 77.9.
-* The Tasks table contains data for the period from 1/1/2024 to 4/30/2024 (4 months), the same period as the Attendance table.
+* The Tasks table contains data for the period from 1/1/2024 to 4/30/2024 (4 months), the same time period as the Attendance table.
 
 # Data Cleaning
 - In the `Attendance` Table
-    * Created a new column by calculating the difference between check-out and check-in times and calling it **Actual Working Hours**.
+    * Created a new column by calculating the difference between check-out and check-in times and call it **Actual Working Hours**.
     * Created a new table by grouping by the `Employee ID` column and calculating the average working hours and last attendance date per employee.
     * Joined the resulting table with the `Employees` table using an inner join on `Employee ID`.
 
 - In the `Employees` Table
-    * Created a new column that measures the difference between `Last Attendance Date` and `Date of Joining` and calls it Employee Tenure (Months).
+    * Created a new column that measures the difference between `Last Attendance Date` and `Date of Joining` and call it Employee Tenure (Months).
     * Created a new calculated column to represent the workload status. It has 3 categories: `Balanced`, `Overloaded`, and `Underloaded`
-    * Created a new calculated column to represent the assignment status (whether an employee is assigned tasks).
+    * Created a new calculated column to represent the assignment status (whether an employee is assigned tasks or not).
 
 
-- In the newly created table (`_Measures`)
+- In the new created table (`_Measures`)
     * Calculated a new measure called `Workload Variance Rate`. This measures the percentage difference between the average working hours per employee and the standard daily working hours.
-    ```
-      Workload Variance Rate = 100 × (Avg. Actual Working Hours − Daily Working Hours) ÷ Daily Working Hours
-    ```
-    
-    - Positive values → Overload: Employee works more than the standard (overtime).
+        ```
+          Workload Variance Rate = 100 × (Avg. Actual Working Hours − Daily Working Hours) ÷ Daily Working Hours
+        ```
         
-    - Negative values → Underload: Employee is working less than the standard.
+        - Positive values → Overload: Employee works more than the standard (overtime).
+            
+        - Negative values → Underload: Employee is working less than the standard.
+            
+        - 0% → Employee is working exactly the standard daily hours.
         
-    - 0% → Employee is working exactly the standard daily hours.
-    
-            DAX Formula:
-        
-          ```dax
-            Working Hours Variance = 
-            DIVIDE(
-                SUMX(
-                    Employees,
-                    Employees[Avg. Actual Working Hours] - Employees[Daily Working Hours]
-                ),
-                SUM(Employees[Daily Working Hours])
-            )
-            ```
+                DAX Formula:
+            
+         ```dax
+                Working Hours Variance = 
+                DIVIDE(
+                    SUMX(
+                        Employees,
+                        Employees[Avg. Actual Working Hours] - Employees[Daily Working Hours]
+                    ),
+                    SUM(Employees[Daily Working Hours])
+                )
+         ```
         
     * `Total Employees`
       ```dax
@@ -241,7 +241,7 @@ Let's see what happens if we adjust the working hours and the number of employee
 # Communicating Results
 
 ## Overview Page
-![image.png](Vis/70578824-ec4b-4690-be3f-906c7bfef12c.png)
+![image.png](Vis/e90576a7-4a87-4b7c-9415-382015cdd84a.png)
 
 ![image.png](Vis/69508932-8d47-4981-bac8-362e0775c8af.png)
 
@@ -252,30 +252,33 @@ Let's see what happens if we adjust the working hours and the number of employee
 - The employee shortage rate is 60%, which is significant. I believe the company needs to hire more employees.
 - The task completion rate stands at 25%.
 
-![image.png](Vis/23bfeaf4-80c2-47a3-ab2f-82091dcee6e4.png)
-- `Supervisors` have the highest resignation rate and a low task completion rate, whereas `Coordinators` have the lowest resignation rate.
+![image.png](Vis/e4f8c6df-c0e3-448a-94c7-4cf9e06e11b3.png)
+- Here, we can see the task completion percentage, escalated task percentage, open task percentage, and in-progress task percentage for each project.
+- `Project L` has the highest percentage of escalated tasks (36%), while `Project N` has the lowest (18%).
+- `Project P` has the highest percentage of completed tasks (35%), whereas `Project J` has the lowest (17%).
 
-![image.png](Vis/4224dbc6-6f0d-4a1d-a3cd-b25b9bf03ba1.png)
-- The `Field Service` department has the highest resignation rate, whereas the `Admin` department has the lowest.
-- The `HR` department has the lowest task completion rate, whereas the `Operations` department has the highest.
+![image.png](Vis/3e82da06-fba5-449e-aec0-31f4b98d2d54.png)
+- Projects in **Abu Dhabi** have the highest resignation rate.
+- Projects in **Riyadh** experience the highest workload variance.
+- Projects in **Jeddah** have the lowest workload variance and the lowest resignation rate.
+- Projects in **Dubai** have the highest completion rate.
 
 ![image.png](Vis/204135df-9b2e-4074-9ae1-8a16d3fcd7b4.png)
 - We can see that projects below the trend line have a high employee shortage rate and a low completion rate.
 - The relationship between the completion rate and the workload variance rate is negatively correlated. That is, when the workload variance rate is high, the completion rate is low.
 - Projects that have a high employee shortage rate tend to have more workload variance.
 
+![2025-06-01.png](Vis/575e5574-4c6f-4a0b-9d73-cc9a83ec1a19.png)
+- If we hover over one of the bubbles, we get more information about the project.
+- For example, this project is **Project P**, and it is located in Dubai. It has the highest completion rate of 35% and a low workload of 3%. The average employee tenure is 13.66 months, and the project started on 7/8/2023 and ended on 9/22/2023.
+
 ![image.png](Vis/c9b0904d-5e1f-4758-a636-7ec154040074.png)
 - We can see that projects above the trend line tend to have a higher employee shortage rate than those below the trend line, and hence a higher resignation rate.
 - Resignation rate and workload variance rate are positively correlated. That is, when the workload variance rate increases, the resignation rate also increases.
 
-![image.png](Vis/e4f8c6df-c0e3-448a-94c7-4cf9e06e11b3.png)
-- Here, we can see the task completion percentage, escalated task percentage, open task percentage, and in-progress task percentage for each project.
-- `Project L` has the highest percentage of escalated tasks (36%), while `Project N` has the lowest (18%).
-- `Project P` has the highest percentage of completed tasks (35%), whereas `Project J` has the lowest (17%).
-
 ## Employee Page
 
-![image.png](Vis/835e8221-78a1-496c-875b-9f59eac98661.png)
+![image.png](Vis/87a74029-f4a8-482f-8bff-79911e315112.png)
 
 ![image.png](Vis/6d345fcd-c936-4702-a811-19e3eefa0ea3.png)
 - The average employee tenure is approximately 15 months (1 year and 3 months).
@@ -289,12 +292,12 @@ Let's see what happens if we adjust the working hours and the number of employee
 - Here, we can see that more than half of our employees are overloaded, and they are more likely to resign.
 - Only 8 employees work the standard daily working hours.
 
-![image.png](Vis/3e82da06-fba5-449e-aec0-31f4b98d2d54.png)
+![image.png](Vis/23bfeaf4-80c2-47a3-ab2f-82091dcee6e4.png)
+- `Supervisors` have the highest resignation rate and a low task completion rate, whereas `Coordinators` have the lowest resignation rate.
 
-- Projects in **Abu Dhabi** have the highest resignation rate.
-- Projects in **Riyadh** experience the highest workload variance.
-- Projects in **Jeddah** have the lowest workload variance and the lowest resignation rate.
-- Projects in **Dubai** have the highest completion rate.
+![image.png](Vis/4224dbc6-6f0d-4a1d-a3cd-b25b9bf03ba1.png)
+- The `Field Service` department has the highest resignation rate, whereas the `Admin` department has the lowest.
+- The `HR` department has the lowest task completion rate, whereas the `Operations` department has the highest.
 
 ![image.png](Vis/019adc4b-6f9a-4f1f-a66d-aeed75aa61c6.png)
 - Employees assigned tasks by **John** are more likely to resign.
