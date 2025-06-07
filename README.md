@@ -5,20 +5,38 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 ---
 
 ## Projects
-1. **[Supply Chain Analysis in Power BI](#Supply_Chain_Analysis_in_Power_BI)**
-2. **[Supermarket Sales Analysis in Python](#Supermarket_Sales_Analysis)**
-3. **[Customer Personality Analysis](#Customer_Personality_Analysis)**
-4. **[E-commerce Analytics: Sales, Customer Behavior & Marketing Insights](#E_commerce_Analytics)**
-5. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
-6. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
-7. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
-8. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
-9. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
-10. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
-11. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
-12. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
-13. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
-14. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+1. **[Addressing HR Workforce Challenges](#Addressing_HR_Workforce_Challenges)**
+2. **[Supply Chain Analysis in Power BI](#Supply_Chain_Analysis_in_Power_BI)**
+3. **[Supermarket Sales Analysis in Python](#Supermarket_Sales_Analysis)**
+4. **[Customer Personality Analysis](#Customer_Personality_Analysis)**
+5. **[E-commerce Analytics: Sales, Customer Behavior & Marketing Insights](#E_commerce_Analytics)**
+6. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
+7. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
+8. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
+9. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
+10. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
+11. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
+12. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
+13. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
+14. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
+15. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+---
+### Addressing HR Workforce Challenges
+<a id='Addressing_HR_Workforce_Challenges'></a>  
+In this project, we analyzed HR data to help the company reduce the resignation rate and workload, and manage HR effectively to increase productivity and employee satisfaction.
+
+**Skills Used:**  
+- Power BI (Power Query, DAX)
+- Descriptive Statistics
+- What-if Scenario
+- Dashboard Design
+- Data Modeling
+- Exploratory Data Analysis (EDA)
+- Data Visualization and Reporting
+- Data Storytelling
+  
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Addressing%20HR%20Workforce%20Challenges)**
+
 ---
 ### Supply Chain Analysis in Power BI
 <a id='Supply_Chain_Analysis_in_Power_BI'></a>  
