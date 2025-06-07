@@ -23,7 +23,7 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 ---
 ### Addressing HR Workforce Challenges
 <a id='Addressing_HR_Workforce_Challenges'></a>  
-In this project, we analyzed HR data to help the company reduce the resignation rate and workload, and manage HR effectively to increase productivity and employee satisfaction.
+In this project, we analyzed HR data to help the company reduce the resignation rate by effectively managing HR to enhance productivity and employee satisfaction.
 
 **Skills Used:**  
 - Power BI (Power Query, DAX)
