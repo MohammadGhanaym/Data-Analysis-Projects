@@ -1,4 +1,5 @@
 # Overview
+![Dashboard.gif](Vis/Dashboard.gif)
 
 **The Problem Presented:**
 XYZ company manages thousands of employees spread across dozens of projects in different countries. During the year 2024, the executive management began to notice worrying indicators:
@@ -31,10 +32,6 @@ You are now a data analyst within an operational emergency team, and your task i
 *   **Proposing practical solutions for the year 2025:**
     Present an operational plan based on data and realistic analysis.
     Explain with numbers how resource allocation can be improved and waste reduced.
-
-**Deadline: Sunday, June 1, 2025**
-
-The important things are the methodology, the deep analysis, the ability to present the outputs in a way that reflects your thinking process, and the ability to turn chaos into a clear and executable vision.
 
 # Data Gathering
 The dataset is split across four CSV files. Below are the column names and corresponding table names for each file.
