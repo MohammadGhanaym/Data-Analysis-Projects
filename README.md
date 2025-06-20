@@ -5,21 +5,34 @@ Welcome to my portfolio! This repository showcases a collection of data analysis
 ---
 
 ## Projects
-1. **[Addressing HR Workforce Challenges](#Addressing_HR_Workforce_Challenges)**
-2. **[Supply Chain Analysis in Power BI](#Supply_Chain_Analysis_in_Power_BI)**
-3. **[Supermarket Sales Analysis in Python](#Supermarket_Sales_Analysis)**
-4. **[Customer Personality Analysis](#Customer_Personality_Analysis)**
-5. **[E-commerce Analytics: Sales, Customer Behavior & Marketing Insights](#E_commerce_Analytics)**
-6. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
-7. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
-8. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
-9. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
-10. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
-11. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
-12. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
-13. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
-14. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
-15. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+1. **[Addressing Manufacturing Downtime challenges](#Addressing_Manufacturing_Downtime_challenges)**
+2. **[Addressing HR Workforce Challenges](#Addressing_HR_Workforce_Challenges)**
+3. **[Supply Chain Analysis in Power BI](#Supply_Chain_Analysis_in_Power_BI)**
+4. **[Supermarket Sales Analysis in Python](#Supermarket_Sales_Analysis)**
+5. **[Customer Personality Analysis](#Customer_Personality_Analysis)**
+6. **[E-commerce Analytics: Sales, Customer Behavior & Marketing Insights](#E_commerce_Analytics)**
+7. **[Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities](#CRM-Sales-Opportunities-Analysis)**
+8. **[Analyze A/B Test Results](#analyze-ab-test-results)**  
+9. **[Communicate Data Findings (Ford Gobike System Data)](#communicate-data-findings-ford-gobike-system-data)**  
+10. **[Investigate Medical Appointment No Shows 2016](#investigate-medical-appointment-no-shows-2016)**  
+11. **[Communicate Data Findings (Telco Customer Churn Data)](#communicate-data-findings-telco-customer-churn-data)**
+12. **[Adventure Works Data Analysis](#Adventure-Works-Data-Analysis)**  
+13. **[Top Countries for Business Expansion](#top-countries-for-business-expansion)**  
+14. **[Analyzing Databel Customer Churn](#analyzing-databel-customer-churn)**
+15. **[Investigate Movies Dataset](#investigate-movies-dataset)** 
+16. **[Exploring US Bikeshare Data](#exploring-us-bikeshare-data)**  
+---
+### Addressing Manufacturing Downtime Challenges
+<a id='Addressing_Manufacturing_Downtime_challenges'></a>  
+In this project, we analyzed productivity and downtime data for a soda bottling production line, which includes information on the operator, product, start and end times, and the factors contributing to downtime for each batch. Monitoring manufacturing lines is very important. It allows you to optimize operations by identifying the factors that cause downtime. By doing so, you'll be able to resolve those issues, reduce downtime, and consequently increase production. 
+
+**Skills Used:**  
+- Excel (Power Query, Power Pivot, DAX, Power Pivot)
+- Descriptive Statistics
+- Data Visualization
+  
+👉 **[Explore the Full Analysis Here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Addressing%20Manufacturing%20Downtime%20challenges)**
+
 ---
 ### Addressing HR Workforce Challenges
 <a id='Addressing_HR_Workforce_Challenges'></a>  
