@@ -103,10 +103,10 @@ Non-Operator Error Downtime %:=CALCULATE([Total Downtime], 'Downtime factors'[Op
 - Looking deeper into OR-600 to identify the factors causing downtime, we find that there was only one batch for this product. Only two downtime incidents occurred: one due to a batch change, which took 60 minutes to resolve by Mac, and another that took only 15 minutes. This is why the product has low efficiency.
 
 
-![image.png](Vis/e3e7f9c0-31b3-4ff0-a3a5-66b1599fde02.png)
+![image.png](Vis/052fb846-c5e8-4bfa-86ad-cac0384e93ca.png)
 - Among all downtime factors, **Batch Change** takes 32 minutes to resolve, making it the longest, and it is also classified as an operator error.
 
-![image.png](Vis/90765b51-cbfc-4918-81f5-a7fe004f2018.png)
+![image.png](Vis/3dc08786-be05-4a4e-b6b4-5497889b35a9.png)
 - If we filter out **Operator Error** to focus on non-operator factors, we find that **Inventory Shortage** is the most significant issue, taking approximately 25 minutes on average to resolve.
 
 ![image.png](Vis/ad9860a3-e922-47f3-abc8-ceeb513f5de5.png)
@@ -127,10 +127,10 @@ Non-Operator Error Downtime %:=CALCULATE([Total Downtime], 'Downtime factors'[Op
 
 
 ![image.png](Vis/6c0c52d5-3cd6-4736-b021-a67b320274fa.png)
-- In addition to **Charlie**, the **Batch Coding Error** is also the most time-consuming issue for **Dee** to resolve, and the **Machine Adjustment** error occurred 3 times.
+- In addition to **Charlie**, the **Batch Coding Error** is also the most time-consuming issue for **Dee** to resolve, and the **Machine Adjustment** error occurred 3 times. **Inventory Shortage** was the most error to occur while **Dee** in charge.
 
 ![image.png](Vis/a61818df-cbec-48d2-9190-25f6b0339b02.png)
-- The **Machine Adjustment** error is the most time-consuming issue for **Dennis**, occurring 4 times.
+- The **Inventory Shortage** error is the most time-consuming issue for **Dennis**, took 43 minutes on average. The most occurring errors are **Machine Failure** and **Machine Adjustment**
   
 ![image.png](Vis/8cd6c57b-ae6f-4c72-9004-d27db214e514.png)
 - The **Batch Change** error is the most time-consuming issue for **Mac**, occurring 3 times. The **Batch Coding Error** also occurred 3 times but took an average of 16 minutes to resolve.
@@ -159,8 +159,8 @@ Monitoring manufacturing lines is very important. It allows you to optimize oper
 
 #### Downtime factors analysis by operator
 - If we look at operator downtime factors that occurred when **Charlie** was in charge, we find that the **Batch Coding Error** is the most time-consuming issue for **Charlie** to resolve. Additionally, the **Machine Adjustment** error occurred four times.
-- In addition to **Charlie**, the **Batch Coding Error** is also the most time-consuming issue for **Dee** to resolve, and the **Machine Adjustment** error occurred 3 times.
-- The **Machine Adjustment** error is the most time-consuming issue for **Dennis**, occurring 4 times.
+- In addition to **Charlie**, the **Batch Coding Error** is also the most time-consuming issue for **Dee** to resolve, and the **Machine Adjustment** error occurred 3 times. **Inventory Shortage** was the most common error while **Dee** was in charge.
+- The **Inventory Shortage** error is the most time-consuming issue for **Dennis**, took 43 minutes on average. The most occurring errors are **Machine Failure** and **Machine Adjustment**
 - The **Batch Change** error is the most time-consuming issue for **Mac**, occurring 3 times. The **Batch Coding Error** also occurred 3 times but took an average of 16 minutes to resolve.
 
 #### Recommendations:
